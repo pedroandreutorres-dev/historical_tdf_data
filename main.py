@@ -1,6 +1,7 @@
 from src.io import load_data, save_data
 from src.cleaning import clean_finishers, clean_stages, clean_tours, clean_winners
-from src.features import feature_analisys, feature_workload, feature_speed, feature_age
+from src.features import calculate_stage_workload, create_hardness_analysis, calculate_physiology
+from src.viz import plot_hardness_composition, plot_paradigm_shift, plot_survival_gap, plot_age_evolution, plot_bmi_evolution
 
 
 def main ():
@@ -17,26 +18,26 @@ def main ():
     df_tours = clean_tours(df_tours)
     df_winners = clean_winners(df_winners)
 
-    # Construimos dataset para analisis de dureza histórica
-    df_analisys = feature_analisys(df_stages, df_tours, df_winners)
-    # Construimos dataset para analisis de etapas
-    df_workload = feature_workload(df_stages)
-    # Construimos dataset para analisis de velocidad media
-    df_speed = feature_speed(df_winners)
-    # Construimos dataset para analisis de edad
-    df_age = feature_age(df_winners)
+    # Features
+    df_stages_feat = calculate_stage_workload(df_stages)
+    df_analysis = create_hardness_analysis(df_stages_feat, df_tours, df_winners)
+    df_winners_feat = calculate_physiology(df_winners)
 
-    # Guardamos datasets
+    # #guardamos todos los dataframes
+    save_data(df_finishers, 'data/processed/tdf_finishers_clean.csv')
+    save_data(df_stages, 'data/processed/tdf_stages_clean.csv')
+    save_data(df_tours, 'data/processed/tdf_tours_clean.csv')
+    save_data(df_winners, 'data/processed/tdf_winners_clean.csv')
+    save_data(df_stages_feat, 'data/processed/tdf_stages_feat.csv')
+    save_data(df_analysis, 'data/processed/tdf_analysis.csv')
+    save_data(df_winners_feat, 'data/processed/tdf_winners_feat.csv')
 
-
-
-
-    print (df_age)
-
-    # Guardamos datasets
-
-
-
+    # Generamos las visualizaciones
+    # plot_hardness_composition(df_stages_feat)
+    # plot_paradigm_shift(df_analysis)
+    # plot_survival_gap(df_analysis)
+    # plot_age_evolution(df_winners_feat)
+    # plot_bmi_evolution(df_winners_feat)
 
 
 
