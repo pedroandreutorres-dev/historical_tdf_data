@@ -17,3 +17,6 @@ __pycache__/
 # Archivos procesados
 processed/*
 !processed/.gitkeep
+
+# Dirty notebooks
+notebooks/dirty_notebooks/
