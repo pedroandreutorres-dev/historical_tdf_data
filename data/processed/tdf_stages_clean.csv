@@ -2355,7 +2355,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 2023,2023-07-14,13,Châtillon-sur-Chalaronne – Col du Grand Colombier,Mountain,137.8,Michał Kwiatkowski,Polonia
 2023,2023-07-15,14,Annemasse – Morzine,Mountain,151.8,Carlos Rodríguez,España
 2023,2023-07-16,15,Les Gets – Saint-Gervais-les-Bains,Mountain,179.0,Wout Poels,Países Bajos
-2023,2023-07-18,16,Passy – Combloux,Individual time-travel,22.4,Jonas Vingegaard,Dinamarca
+2023,2023-07-18,16,Passy – Combloux,Individual time-trial,22.4,Jonas Vingegaard,Dinamarca
 2023,2023-07-19,17,Saint-Gervais-les-Bains – Courchevel,Mountain,165.7,Felix Gall,Austria
 2023,2023-07-20,18,Moûtiers – Bourg-en-Bresse,Flat,184.9,Kasper Asgreen,Dinamarca
 2023,2023-07-21,19,Moirans-en-Montagne – Poligny,Hilly,172.8,Matej Mohorič,Eslovenia
@@ -2367,7 +2367,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 2024,2024-07-02,4,ITA Pinerolo – Valloire,Mountain,139.6,Tadej Pogačar,Eslovenia
 2024,2024-07-03,5,Saint-Jean-de-Maurienne – Saint-Vulbas,Flat,177.4,Mark Cavendish,Reino Unido
 2024,2024-07-04,6,Mâcon – Dijon,Flat,163.5,Dylan Groenewegen,Países Bajos
-2024,2024-07-05,7,Nuits-Saint-Georges – Gevrey-Chambertin,Individual time-travel,25.3,Remco Evenepoel,Bélgica
+2024,2024-07-05,7,Nuits-Saint-Georges – Gevrey-Chambertin,Individual time-trial,25.3,Remco Evenepoel,Bélgica
 2024,2024-07-06,8,Semur-en-Auxois – Colombey-les-Deux-Églises,Hilly,183.4,Biniam Girmay,Eritrea
 2024,2024-07-07,9,Troyes – Troyes,Hilly,199.0,Anthony Turgis,Francia
 2024,2024-07-09,10,Orleans – Saint-Amand-Montrond,Flat,187.3,Jasper Philipsen,Bélgica
@@ -2381,12 +2381,12 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 2024,2024-07-18,18,Gap – Barcelonnette,Hilly,179.5,Victor Campenaerts,Bélgica
 2024,2024-07-19,19,Embrun – Isola 2000,Mountain,144.6,Tadej Pogačar,Eslovenia
 2024,2024-07-20,20,Niza – Col de la Couillole,Mountain,132.8,Tadej Pogačar,Eslovenia
-2024,2024-07-21,21,MON Ciudad de Mónaco – Niza,Individual time-travel,33.7,Tadej Pogačar,Eslovenia
+2024,2024-07-21,21,MON Ciudad de Mónaco – Niza,Individual time-trial,33.7,Tadej Pogačar,Eslovenia
 2025,2025-07-05,1,Lille – Lille,Flat,184.9,Jasper Philipsen,Bélgica
 2025,2025-07-06,2,Lauwin-Planque – Boulogne-sur-Mer,Hilly,209.1,Mathieu van der Poel,Países Bajos
 2025,2025-07-07,3,Valenciennes – Dunkerque,Flat,178.3,Tim Merlier,Bélgica
 2025,2025-07-08,4,Amiens – Ruan,Hilly,174.2,Tadej Pogačar,Eslovenia
-2025,2025-07-09,5,Caen – Caen,Individual time-travel,33.0,Remco Evenepoel,Bélgica
+2025,2025-07-09,5,Caen – Caen,Individual time-trial,33.0,Remco Evenepoel,Bélgica
 2025,2025-07-10,6,Bayeux – Vire-Normandie,Hilly,201.5,Ben Healy,Irlanda
 2025,2025-07-11,7,Saint-Malo – Mûr-de-Bretagne,Hilly,197.0,Tadej Pogačar,Eslovenia
 2025,2025-07-12,8,Saint-Méen-le-Grand – Laval,Flat,171.4,Jonathan Milan,Italia
