@@ -491,7 +491,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1936,1936-07-10,4,Metz to Belfort,Mountain,220.0,Maurice Archambaud,Francia
 1936,1936-07-11,5,Belfort to Évian-les-Bains,Flat,298.0,René Le Grevès,Francia
 1936,1936-07-13,6,Évian-les-Bains to Aix-les-Bains,Mountain,212.0,Éloi Meulenberg,Bélgica
-1936,1936-07-14,7,Aix-les-Bains to Grenoble,Mountain,230.0,Theo Middelkamp,Paises Bajos
+1936,1936-07-14,7,Aix-les-Bains to Grenoble,Mountain,230.0,Theo Middelkamp,Países Bajos
 1936,1936-07-15,8,Grenoble to Briançon,Mountain,194.0,Jean-Marie Goasmat,Francia
 1936,1936-07-16,9,Briançon to Digne,Mountain,220.0,Léon Level,Francia
 1936,1936-07-18,10,Digne to Nice,Flat,156.0,Paul Maye,Francia
@@ -545,17 +545,17 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1937,1937-07-25,20,Caen to Paris,Flat,234.0,Edward Vissers,Bélgica
 1938,1938-07-05,1,Paris to Caen,Flat,215.0,Willi Oberbeck,Alemania
 1938,1938-07-06,2,Caen to Saint-Brieuc,Flat,237.0,Jean Majerus,Luxemburgo
-1938,1938-07-07,3,Saint-Brieuc to Nantes,Flat,238.0,Gerrit Schulte,Paises Bajos
+1938,1938-07-07,3,Saint-Brieuc to Nantes,Flat,238.0,Gerrit Schulte,Países Bajos
 1938,1938-07-08,4a,Nantes to La Roche-sur-Yon,Flat,62.0,Éloi Meulenberg,Bélgica
 1938,1938-07-08,4b,La Roche-sur-Yon to La Rochelle,Flat,83.0,Éloi Meulenberg,Bélgica
 1938,1938-07-08,4c,La Rochelle to Royan,Flat,83.0,Félicien Vervaecke,Bélgica
 1938,1938-07-10,5,Royan to Bordeaux,Flat,198.0,Éloi Meulenberg,Bélgica
 1938,1938-07-11,6a,Bordeaux to Arcachon,Flat,53.0,Jules Rossi,Italia
 1938,1938-07-11,6b,Arcachon to Bayonne,Flat,171.0,Glauco Servadei,Italia
-1938,1938-07-12,7,Bayonne to Pau,Flat,115.0,Theo Middelkamp,Paises Bajos
+1938,1938-07-12,7,Bayonne to Pau,Flat,115.0,Theo Middelkamp,Países Bajos
 1938,1938-07-14,8,Pau to Luchon,Mountain,193.0,Félicien Vervaecke,Bélgica
 1938,1938-07-16,9,Luchon to Perpignan,Mountain,260.0,Jean Fréchaut,Francia
-1938,1938-07-17,10a,Perpignan to Narbonne,Flat,63.0,Antoon van Schendel,Paises Bajos
+1938,1938-07-17,10a,Perpignan to Narbonne,Flat,63.0,Antoon van Schendel,Países Bajos
 1938,1938-07-17,10b,Narbonne to Béziers,Individual time-trial,27.0,Félicien Vervaecke,Bélgica
 1938,1938-07-17,10c,Béziers to Montpellier,Flat,73.0,Antonin Magne,Francia
 1938,1938-07-18,11,Montpellier to Marseille,Flat,223.0,Gino Bartali,Italia
@@ -595,7 +595,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1939,1939-07-26,15,Digne to Briançon,Mountain,219.0,Sylvère Maes,Bélgica
 1939,1939-07-27,16a,Briançon to Briançon,Mountain,126.0,Pierre Jaminet,Francia
 1939,1939-07-27,16b,Bonneval to Bourg-Saint-Maurice,Mountain time-trial,64.0,Sylvère Maes,Bélgica
-1939,1939-07-27,16c,Bourg-Saint-Maurice to Annecy,Flat,104.0,Antoon van Schendel,Paises Bajos
+1939,1939-07-27,16c,Bourg-Saint-Maurice to Annecy,Flat,104.0,Antoon van Schendel,Países Bajos
 1939,1939-07-29,17a,Annecy to Dôle,Mountain,226.0,François Neuens,Luxemburgo
 1939,1939-07-29,17b,Dôle to Dijon,Individual time-trial,59.0,Maurice Archambaud,Francia
 1939,1939-07-30,18a,Dijon to Troyes,Flat,151.0,René Le Grevès,Francia
@@ -696,7 +696,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1951,1951-07-13,9,Limoges to Clermont-Ferrand,Mountain,236.0,Raphaël Géminiani,Francia
 1951,1951-07-14,10,Clermont-Ferrand to Brive,Mountain,216.0,Bernardo Ruiz,España
 1951,1951-07-15,11,Brive to Agen,Flat,177.0,Hugo Koblet,Suiza
-1951,1951-07-16,12,Agen to Dax,Flat,185.0,Wim van Est,Paises Bajos
+1951,1951-07-16,12,Agen to Dax,Flat,185.0,Wim van Est,Países Bajos
 1951,1951-07-17,13,Dax to Tarbes,Mountain,201.0,Serafino Biagioni,Italia
 1951,1951-07-18,14,Tarbes to Luchon,Mountain,142.0,Hugo Koblet,Suiza
 1951,1951-07-19,15,Luchon to Carcassonne,Mountain,213.0,André Rosseel,Bélgica
@@ -720,14 +720,14 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1952,1952-07-03,9,Mulhouse to Lausanne,Mountain,238.0,Walter Diggelmann,Suiza
 1952,1952-07-04,10,Lausanne to Alpe d'Huez,Mountain,266.0,Fausto Coppi,Italia
 1952,1952-07-06,11,Le Bourg-d'Oisans to Sestriere (Italy),Mountain,182.0,Fausto Coppi,Italia
-1952,1952-07-07,12,Sestriere (Italy) to Monaco,Mountain,251.0,Jan Nolten,Paises Bajos
+1952,1952-07-07,12,Sestriere (Italy) to Monaco,Mountain,251.0,Jan Nolten,Países Bajos
 1952,1952-07-08,13,Monaco to Aix-en-Provence,Flat,214.0,Raoul Rémy,Francia
 1952,1952-07-09,14,Aix-en-Provence to Avignon,Mountain,178.0,Jean Robic,Francia
 1952,1952-07-10,15,Avignon to Perpignan,Flat,275.0,Georges Decaux,Francia
 1952,1952-07-11,16,Perpignan to Toulouse,Flat,200.0,André Rosseel,Bélgica
 1952,1952-07-13,17,Toulouse to Bagnères-de-Bigorre,Mountain,204.0,Raphaël Géminiani,Francia
 1952,1952-07-14,18,Bagnères-de-Bigorre to Pau,Mountain,149.0,Fausto Coppi,Italia
-1952,1952-07-15,19,Pau to Bordeaux,Flat,195.0,Hans Dekkers,Paises Bajos
+1952,1952-07-15,19,Pau to Bordeaux,Flat,195.0,Hans Dekkers,Países Bajos
 1952,1952-07-16,20,Bordeaux to Limoges,Flat,228.0,Jacques Vivier,Francia
 1952,1952-07-17,21,Limoges to Puy de Dôme,Mountain,245.0,Fausto Coppi,Italia
 1952,1952-07-18,22,Clermont-Ferrand to Vichy,Individual time-trial,63.0,Fiorenzo Magni,Italia
@@ -735,11 +735,11 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1953,1953-07-03,1,Strasbourg to Metz,Flat,195.0,Fritz Schär,Suiza
 1953,1953-07-04,2,Metz to Liège (Belgium),Flat,227.0,Fritz Schär,Suiza
 1953,1953-07-05,3,Liège (Belgium) to Lille,Flat,221.0,Stanislas Bober,Francia
-1953,1953-07-06,4,Lille to Dieppe,Flat,188.0,Gerrit Voorting,Paises Bajos
+1953,1953-07-06,4,Lille to Dieppe,Flat,188.0,Gerrit Voorting,Países Bajos
 1953,1953-07-07,5,Dieppe to Caen,Flat,200.0,Jean Malléjac,Francia
 1953,1953-07-08,6,Caen to Le Mans,Flat,206.0,Martin Van Geneugden,Bélgica
 1953,1953-07-09,7,Le Mans to Nantes,Flat,181.0,Livio Isotti,Italia
-1953,1953-07-10,8,Nantes to Bordeaux,Flat,345.0,Jan Nolten,Paises Bajos
+1953,1953-07-10,8,Nantes to Bordeaux,Flat,345.0,Jan Nolten,Países Bajos
 1953,1953-07-12,9,Bordeaux to Pau,Flat,197.0,Fiorenzo Magni,Italia
 1953,1953-07-13,10,Pau to Cauterets,Mountain,103.0,Jesús Loroño,España
 1953,1953-07-14,11,Cauterets to Luchon,Mountain,115.0,Jean Robic,Francia
@@ -747,23 +747,23 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1953,1953-07-16,13,Albi to Béziers,Mountain,189.0,Nello Lauredi,Francia
 1953,1953-07-17,14,Béziers to Nîmes,Mountain,214.0,Bernard Quennehen,Francia
 1953,1953-07-18,15,Nîmes to Marseille,Flat,173.0,Maurice Quentin,Francia
-1953,1953-07-19,16,Marseille to Monaco,Mountain,236.0,Wim van Est,Paises Bajos
-1953,1953-07-21,17,Monaco to Gap,Mountain,261.0,Wout Wagtmans,Paises Bajos
+1953,1953-07-19,16,Marseille to Monaco,Mountain,236.0,Wim van Est,Países Bajos
+1953,1953-07-21,17,Monaco to Gap,Mountain,261.0,Wout Wagtmans,Países Bajos
 1953,1953-07-22,18,Gap to Briançon,Mountain,165.0,Louison Bobet,Francia
 1953,1953-07-23,19,Briançon to Lyon,Mountain,227.0,Georges Meunier,Francia
 1953,1953-07-24,20,Lyon to St. Etienne,Individual time-trial,70.0,Louison Bobet,Francia
-1953,1953-07-25,21,St. Etienne to Montluçon,Flat,210.0,Wout Wagtmans,Paises Bajos
+1953,1953-07-25,21,St. Etienne to Montluçon,Flat,210.0,Wout Wagtmans,Países Bajos
 1953,1953-07-26,22,Montluçon to Paris,Flat,328.0,Fiorenzo Magni,Italia
-1954,1954-07-08,1,Amsterdam (Netherlands) to Brasschaat (Belgium),Flat,216.0,Wout Wagtmans,Paises Bajos
+1954,1954-07-08,1,Amsterdam (Netherlands) to Brasschaat (Belgium),Flat,216.0,Wout Wagtmans,Países Bajos
 1954,1954-07-09,2,Beveren (Belgium) to Lille,Flat,255.0,Louison Bobet,Francia
 1954,1954-07-10,3,Lille to Rouen,Flat,219.0,Marcel Dussault,Francia
 1954,1954-07-11,4a,Rouen to Circuit des Essarts,Team time-trial,10.4,Switzerland,Suiza
-1954,1954-07-11,4b,Rouen to Caen,Flat,131.0,Wim van Est,Paises Bajos
+1954,1954-07-11,4b,Rouen to Caen,Flat,131.0,Wim van Est,Países Bajos
 1954,1954-07-12,5,Caen to Saint-Brieuc,Flat,224.0,Ferdinand Kübler,Suiza
 1954,1954-07-13,6,Saint-Brieuc to Brest,Flat,179.0,Dominique Forlini,Francia
 1954,1954-07-14,7,Brest to Vannes,Flat,211.0,Jacques Vivier,Francia
 1954,1954-07-15,8,Vannes to Angers,Flat,190.0,Fred De Bruyne,Bélgica
-1954,1954-07-16,9,Angers to Bordeaux,Flat,343.0,Henk Faanhof,Paises Bajos
+1954,1954-07-16,9,Angers to Bordeaux,Flat,343.0,Henk Faanhof,Países Bajos
 1954,1954-07-18,10,Bordeaux to Bayonne,Flat,202.0,Gilbert Bauvin,Francia
 1954,1954-07-19,11,Bayonne to Pau,Mountain,241.0,Stan Ockers,Bélgica
 1954,1954-07-20,12,Pau to Luchon,Mountain,161.0,Gilbert Bauvin,Francia
@@ -780,25 +780,25 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1954,1954-07-31,22,Nancy to Troyes,Flat,216.0,Fred De Bruyne,Bélgica
 1954,1954-08-01,23,Troyes to Paris,Flat,180.0,Robert Varnajo,Francia
 1955,1955-07-07,1a,Le Havre to Dieppe,Flat,102.0,Miguel Poblet,España
-1955,1955-07-07,1b,Dieppe,Team time-trial,12.5,Netherlands,Paises Bajos
+1955,1955-07-07,1b,Dieppe,Team time-trial,12.5,Netherlands,Países Bajos
 1955,1955-07-08,2,Dieppe to Roubaix,Flat,204.0,Antonin Rolland,Francia
 1955,1955-07-09,3,Roubaix to Namur (Belgium),Flat,210.0,Louison Bobet,Francia
 1955,1955-07-10,4,Namur (Belgium) to Metz,Flat,225.0,Willy Kemp,Luxemburgo
 1955,1955-07-11,5,Metz to Colmar,Flat,229.0,Roger Hassenforder,Francia
 1955,1955-07-12,6,Colmar to Zürich (Switzerland),Flat,195.0,André Darrigade,Francia
-1955,1955-07-13,7,Zürich (Switzerland) to Thonon-les-Bains,Flat,267.0,Jos Hinsen,Paises Bajos
+1955,1955-07-13,7,Zürich (Switzerland) to Thonon-les-Bains,Flat,267.0,Jos Hinsen,Países Bajos
 1955,1955-07-14,8,Thonon-les-Bains to Briançon,Mountain,253.0,Charly Gaul,Luxemburgo
 1955,1955-07-15,9,Briançon to Monaco,Mountain,275.0,Raphaël Géminiani,Francia
 1955,1955-07-17,10,Monaco to Marseille,Flat,240.0,Lucien Lazaridès,Francia
 1955,1955-07-18,11,Marseille to Avignon,Mountain,198.0,Louison Bobet,Francia
 1955,1955-07-19,12,Avignon to Millau,Mountain,240.0,Alessandro Fantini,Italia
-1955,1955-07-20,13,Millau to Albi,Flat,205.0,Daan de Groot,Paises Bajos
+1955,1955-07-20,13,Millau to Albi,Flat,205.0,Daan de Groot,Países Bajos
 1955,1955-07-21,14,Albi to Narbonne,Mountain,156.0,Louis Caput,Francia
 1955,1955-07-22,15,Narbonne to Ax-les-Thermes,Flat,151.0,Luciano Pezzi,Italia
 1955,1955-07-24,16,Ax-les-Thermes to Toulouse,Flat,123.0,Rik Van Steenbergen,Bélgica
 1955,1955-07-25,17,Toulouse to Saint-Gaudens,Mountain,250.0,Charly Gaul,Luxemburgo
 1955,1955-07-26,18,Saint-Gaudens to Pau,Mountain,205.0,Jean Brankart,Bélgica
-1955,1955-07-27,19,Pau to Bordeaux,Flat,195.0,Wout Wagtmans,Paises Bajos
+1955,1955-07-27,19,Pau to Bordeaux,Flat,195.0,Wout Wagtmans,Países Bajos
 1955,1955-07-28,20,Bordeaux to Poitiers,Flat,243.0,Jean Forestier,Francia
 1955,1955-07-29,21,Châtellerault to Tours,Individual time-trial,68.6,Jean Brankart,Bélgica
 1955,1955-07-30,22,Tours to Paris,Flat,229.0,Miguel Poblet,España
@@ -850,7 +850,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1957,1957-07-19,21,Libourne to Tours,Flat,317.0,André Darrigade,Francia
 1957,1957-07-20,22,Tours to Paris,Flat,227.0,André Darrigade,Francia
 1958,1958-06-26,1,Brussels (Belgium) to Ghent (Belgium),Flat,184.0,André Darrigade,Francia
-1958,1958-06-27,2,Ghent (Belgium) to Dunkirk,Flat,198.0,Gerrit Voorting,Paises Bajos
+1958,1958-06-27,2,Ghent (Belgium) to Dunkirk,Flat,198.0,Gerrit Voorting,Países Bajos
 1958,1958-06-28,3,Dunkirk to Mers-les-Bains,Flat,177.0,Gilbert Bauvin,Francia
 1958,1958-06-29,4,Le Tréport to Versailles,Flat,205.0,Jean Gainche,Francia
 1958,1958-06-30,5,Versailles to Caen,Flat,232.0,Tino Sabbadini,Francia
@@ -946,7 +946,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1962,1962-06-27,4,Amiens to Le Havre,Flat,196.5,Willy Vanden Berghen,Bélgica
 1962,1962-06-28,5,Pont l'Evêque to Saint-Malo,Flat,215.0,Emile Daems,Bélgica
 1962,1962-06-29,6,Dinard to Brest,Flat,235.5,Robert Cazala,Francia
-1962,1962-06-30,7,Quimper to Saint-Nazaire,Flat,201.0,Huub Zilverberg,Paises Bajos
+1962,1962-06-30,7,Quimper to Saint-Nazaire,Flat,201.0,Huub Zilverberg,Países Bajos
 1962,1962-07-01,8a,Saint-Nazaire to Luçon,Flat,155.0,Mario Minieri,Italia
 1962,1962-07-01,8b,Luçon to La Rochelle,Individual time-trial,43.0,Jacques Anquetil,Francia
 1962,1962-07-02,9,La Rochelle to Bordeaux,Flat,214.0,Antonio Bailetti,Italia
@@ -971,7 +971,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1963,1963-06-27,5,Rouen to Rennes,Flat,285.0,Antonio Bailetti,Italia
 1963,1963-06-28,6a,Rennes to Angers,Flat,118.0,Roger de Breuker,Bélgica
 1963,1963-06-28,6b,Angers,Individual time-trial,25.0,Jacques Anquetil,Francia
-1963,1963-06-29,7,Angers to Limoges,Flat,236.0,Jan Janssen,Paises Bajos
+1963,1963-06-29,7,Angers to Limoges,Flat,236.0,Jan Janssen,Países Bajos
 1963,1963-06-30,8,Limoges to Bordeaux,Flat,232.0,Rik Van Looy,Bélgica
 1963,1963-07-01,9,Bordeaux to Pau,Flat,202.0,Pino Cerami,Bélgica
 1963,1963-07-02,10,Pau to Bagnères-de-Bigorre,Mountain,148.0,Jacques Anquetil,Francia
@@ -992,14 +992,14 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1964,1964-06-24,3b,Forest (Belgium),Team time-trial,21.0,Kas–Kaskol,
 1964,1964-06-25,4,Forest (Belgium) to Metz,Flat,292.0,Rudi Altig,Alemania
 1964,1964-06-26,5,Lunéville to Freiburg (West Germany),Flat,161.0,Willy Derboven,Bélgica
-1964,1964-06-27,6,Freiburg (West Germany) to Besançon,Flat,200.0,Henk Nijdam,Paises Bajos
-1964,1964-06-28,7,Besançon to Thonon-les-Bains,Flat,195.0,Jan Janssen,Paises Bajos
+1964,1964-06-27,6,Freiburg (West Germany) to Besançon,Flat,200.0,Henk Nijdam,Países Bajos
+1964,1964-06-28,7,Besançon to Thonon-les-Bains,Flat,195.0,Jan Janssen,Países Bajos
 1964,1964-06-29,8,Thonon-les-Bains to Briançon,Mountain,249.0,Federico Bahamontes,España
 1964,1964-06-30,9,Briançon to Monaco,Mountain,239.0,Jacques Anquetil,Francia
-1964,1964-07-01,10a,Monaco to Hyères,Flat,187.0,Jan Janssen,Paises Bajos
+1964,1964-07-01,10a,Monaco to Hyères,Flat,187.0,Jan Janssen,Países Bajos
 1964,1964-07-01,10b,Hyères to Toulon,Individual time-trial,21.0,Jacques Anquetil,Francia
 1964,1964-07-02,11,Toulon to Montpellier,Flat,250.0,Edward Sels,Bélgica
-1964,1964-07-03,12,Montpellier to Perpignan,Flat,174.0,Jo de Roo,Paises Bajos
+1964,1964-07-03,12,Montpellier to Perpignan,Flat,174.0,Jo de Roo,Países Bajos
 1964,1964-07-04,13,Perpignan to Andorra,Mountain,170.0,Julio Jiménez,España
 1964,1964-07-06,14,Andorra to Toulouse,Mountain,186.0,Edward Sels,Bélgica
 1964,1964-07-07,15,Toulouse to Luchon,Mountain,203.0,Raymond Poulidor,Francia
@@ -1016,15 +1016,15 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1965,1965-06-23,2,Liège (Belgium) to Roubaix,Flat,200.5,Bernard Van De Kerkhove,Bélgica
 1965,1965-06-24,3,Roubaix to Rouen,Flat,240.0,Felice Gimondi,Italia
 1965,1965-06-25,4,Caen to Saint-Brieuc,Flat,227.0,Edgard Sorgeloos,Bélgica
-1965,1965-06-26,5a,Saint-Brieuc to Châteaulin,Flat,147.0,Cees van Espen,Paises Bajos
+1965,1965-06-26,5a,Saint-Brieuc to Châteaulin,Flat,147.0,Cees van Espen,Países Bajos
 1965,1965-06-26,5b,Châteaulin,Individual time-trial,26.7,Raymond Poulidor,Francia
 1965,1965-06-27,6,Quimper to La Baule,Flat,210.5,Guido Reybrouck,Bélgica
 1965,1965-06-28,7,La Baule to La Rochelle,Flat,219.0,Edward Sels,Bélgica
-1965,1965-06-29,8,La Rochelle to Bordeaux,Flat,197.5,Johan de Roo,Paises Bajos
+1965,1965-06-29,8,La Rochelle to Bordeaux,Flat,197.5,Johan de Roo,Países Bajos
 1965,1965-06-30,9,Dax to Bagnères-de-Bigorre,Mountain,226.5,Julio Jiménez,España
 1965,1965-07-01,10,Bagnères-de-Bigorre to Ax-les-Thermes,Mountain,222.5,Guido Reybrouck,Bélgica
 1965,1965-07-02,11,Ax-les-Thermes to Barcelona (Spain),Mountain,240.5,José Pérez Francés,España
-1965,1965-07-04,12,Barcelona (Spain) to Perpignan,Flat,219.0,Jan Janssen,Paises Bajos
+1965,1965-07-04,12,Barcelona (Spain) to Perpignan,Flat,219.0,Jan Janssen,Países Bajos
 1965,1965-07-05,13,Perpignan to Montpellier,Flat,164.0,Adriano Durante,Italia
 1965,1965-07-06,14,Montpellier to Mont Ventoux,Mountain,173.0,Raymond Poulidor,Francia
 1965,1965-07-07,15,Carpentras to Gap,Mountain,167.5,Giuseppe Fezzardi,Italia
@@ -1033,30 +1033,30 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1965,1965-07-10,18,Aix-les-Bains to Le Revard,Mountain time-trial,26.9,Felice Gimondi,Italia
 1965,1965-07-11,19,Aix-les-Bains to Lyon,Mountain,165.0,Rik Van Looy,Bélgica
 1965,1965-07-12,20,Lyon to Auxerre,Flat,198.5,Michael Wright,Reino Unido
-1965,1965-07-13,21,Auxerre to Versailles,Flat,225.5,Gerben Karstens,Paises Bajos
+1965,1965-07-13,21,Auxerre to Versailles,Flat,225.5,Gerben Karstens,Países Bajos
 1965,1965-07-14,22,Versailles to Paris,Individual time-trial,37.8,Felice Gimondi,Italia
 1966,1966-06-21,1,Nancy to Charleville,Flat,209.0,Rudi Altig,Alemania
 1966,1966-06-22,2,Charleville to Tournai (Belgium),Flat,198.0,Guido Reybrouck,Bélgica
 1966,1966-06-23,3a,Tournai (Belgium),Team time-trial,21.0,Televizier–Batavus,
-1966,1966-06-23,3b,Tournai to Dunkirk,Flat,131.0,Gerben Karstens,Paises Bajos
+1966,1966-06-23,3b,Tournai to Dunkirk,Flat,131.0,Gerben Karstens,Países Bajos
 1966,1966-06-24,4,Dunkirk to Dieppe,Flat,205.0,Willy Planckaert,Bélgica
 1966,1966-06-25,5,Dieppe to Caen,Flat,178.0,Franco Bitossi,Italia
 1966,1966-06-26,6,Caen to Angers,Flat,217.0,Edward Sels,Bélgica
 1966,1966-06-27,7,Angers to Royan,Flat,252.0,Albert Van Vlierberghe,Bélgica
 1966,1966-06-28,8,Royan to Bordeaux,Flat,138.0,Willy Planckaert,Bélgica
-1966,1966-06-29,9,Bordeaux to Bayonne,Flat,201.0,Gerben Karstens,Paises Bajos
+1966,1966-06-29,9,Bordeaux to Bayonne,Flat,201.0,Gerben Karstens,Países Bajos
 1966,1966-06-30,10,Bayonne to Pau,Mountain,234.0,Tommaso de Pra,Italia
 1966,1966-07-01,11,Pau to Luchon,Mountain,188.0,Guido Marcello Mugnaini,Italia
 1966,1966-07-03,12,Luchon to Revel,Mountain,219.0,Rudi Altig,Alemania
 1966,1966-07-04,13,Revel to Sète,Flat,191.0,Georges Vandenberghe,Bélgica
-1966,1966-07-05,14a,Montpellier to Aubenas,Flat,144.0,Jo de Roo,Paises Bajos
+1966,1966-07-05,14a,Montpellier to Aubenas,Flat,144.0,Jo de Roo,Países Bajos
 1966,1966-07-05,14b,Vals-les-Bains,Individual time-trial,20.0,Raymond Poulidor,Francia
 1966,1966-07-06,15,Privas to Le Bourg-d'Oisans,Mountain,203.0,Luís Otano,España
 1966,1966-07-07,16,Le Bourg-d'Oisans to Briançon,Mountain,148.0,Julio Jiménez,España
 1966,1966-07-08,17,Briançon to Turin (Italy),Mountain,160.0,Franco Bitossi,Italia
 1966,1966-07-10,18,Ivrea (Italy) to Chamonix,Mountain,188.0,Edy Schütz,Luxemburgo
 1966,1966-07-11,19,Chamonix to Saint-Étienne,Mountain,265.0,Ferdinand Bracke,Bélgica
-1966,1966-07-12,20,Saint-Étienne to Montluçon,Flat,223.0,Henk Nijdam,Paises Bajos
+1966,1966-07-12,20,Saint-Étienne to Montluçon,Flat,223.0,Henk Nijdam,Países Bajos
 1966,1966-07-13,21,Montluçon to Orléans,Flat,232.0,Pierre Beuffeuil,Francia
 1966,1966-07-14,22a,Orléans to Rambouillet,Flat,111.0,Edward Sels,Bélgica
 1966,1966-07-14,22b,Rambouillet to Paris,Individual time-trial,51.0,Rudi Altig,Alemania
@@ -1074,7 +1074,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1967,1967-07-10,10,Divonne-les-Bains to Briançon,Mountain,243.0,Felice Gimondi,Italia
 1967,1967-07-11,11,Briançon to Digne,Mountain,197.0,José Samyn,Francia
 1967,1967-07-12,12,Digne to Marseille,Flat,207.5,Raymond Riotte,Francia
-1967,1967-07-13,13,Marseille to Carpentras,Mountain,211.5,Jan Janssen,Paises Bajos
+1967,1967-07-13,13,Marseille to Carpentras,Mountain,211.5,Jan Janssen,Países Bajos
 1967,1967-07-14,14,Carpentras to Sète,Flat,201.5,Barry Hoban,Reino Unido
 1967,1967-07-16,15,Sète to Toulouse,Flat,230.5,Rolf Wolfshohl,Alemania
 1967,1967-07-17,16,Toulouse to Luchon,Mountain,188.0,Fernando Manzaneque,España
@@ -1101,7 +1101,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1968,1968-07-09,11,Bayonne to Pau,Flat,183.5,Daniel Van Ryckeghem,Bélgica
 1968,1968-07-10,12,Pau to Saint-Gaudens,Mountain,226.5,Georges Pintens,Bélgica
 1968,1968-07-11,13,Saint-Gaudens to La Seu d'Urgell (Spain),Mountain,208.5,Herman Van Springel,Bélgica
-1968,1968-07-12,14,La Seu d'Urgell to Perpignan,Mountain,231.5,Jan Janssen,Paises Bajos
+1968,1968-07-12,14,La Seu d'Urgell to Perpignan,Mountain,231.5,Jan Janssen,Países Bajos
 1968,1968-07-14,15,Font-Romeu-Odeillo-Via to Albi,Flat,250.5,Roger Pingeon,Francia
 1968,1968-07-15,16,Albi to Aurillac,Flat,199.0,Franco Bitossi,Italia
 1968,1968-07-16,17,Aurillac to Saint-Étienne,Mountain,236.5,Jean-Pierre Genet,Francia
@@ -1110,7 +1110,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1968,1968-07-19,20,Sallanches to Besançon,Mountain,242.5,Jozef Huysmans,Bélgica
 1968,1968-07-20,21,Besançon to Auxerre,Flat,242.0,Eric Leman,Bélgica
 1968,1968-07-21,22a,Auxerre to Melun,Flat,136.0,Maurice Izier,Francia
-1968,1968-07-21,22b,Melun to Paris,Individual time-trial,55.2,Jan Janssen,Paises Bajos
+1968,1968-07-21,22b,Melun to Paris,Individual time-trial,55.2,Jan Janssen,Países Bajos
 1969,1969-06-28,P,Roubaix,Individual time-trial,10.0,Rudi Altig,Alemania
 1969,1969-06-29,1a,"Roubaix to Woluwe-Saint-Pierre (Sint-Pieters-Woluwe, Belgium)",Flat,147.0,Marino Basso,Italia
 1969,1969-06-29,1b,Woluwe-Saint-Pierre (Belgium),Team time-trial,16.0,Faema,
@@ -1156,7 +1156,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1970,1970-07-08,12,Thonon-les-Bains to Grenoble,Mountain,194.0,Eddy Merckx,Bélgica
 1970,1970-07-09,13,Grenoble to Gap,Mountain,194.5,Primo Mori,Italia
 1970,1970-07-10,14,Gap to Mont Ventoux,Mountain,170.0,Eddy Merckx,Bélgica
-1970,1970-07-11,15,Carpentras to Montpellier,Flat,140.5,Rini Wagtmans,Paises Bajos
+1970,1970-07-11,15,Carpentras to Montpellier,Flat,140.5,Rini Wagtmans,Países Bajos
 1970,1970-07-12,16,Montpellier to Toulouse,Flat,160.0,Albert Van Vlierberghe,Bélgica
 1970,1970-07-13,17,Toulouse to Saint-Gaudens,Flat,190.0,Luis Ocaña,España
 1970,1970-07-14,18,Saint-Gaudens to La Mongie,Mountain,135.5,Bernard Thévenet,Francia
@@ -1168,10 +1168,10 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1970,1970-07-19,23,Versailles to Paris,Individual time-trial,54.0,Eddy Merckx,Bélgica
 1971,1971-06-26,P,Mulhouse,Team time-trial,11.0,Molteni,
 1971,1971-06-27,1a,Mulhouse to Basel (Switzerland),Flat,59.5,Eric Leman,Bélgica
-1971,1971-06-27,1b,Basel (Switzerland) to Freiburg (West Germany),Hilly,90.0,Gerben Karstens,Paises Bajos
+1971,1971-06-27,1b,Basel (Switzerland) to Freiburg (West Germany),Hilly,90.0,Gerben Karstens,Países Bajos
 1971,1971-06-27,1c,Freiburg (West Germany) to Mulhouse,Flat,74.5,Albert Van Vlierberghe,Bélgica
 1971,1971-06-28,2,Mulhouse to Strasbourg,Hilly,144.0,Eddy Merckx,Bélgica
-1971,1971-06-29,3,Strasbourg to Nancy,Hilly,165.5,Rini Wagtmans,Paises Bajos
+1971,1971-06-29,3,Strasbourg to Nancy,Hilly,165.5,Rini Wagtmans,Países Bajos
 1971,1971-06-30,4,Nancy to Marche-en-Famenne (Belgium),Flat,242.0,Jean-Pierre Genet,Francia
 1971,1971-07-01,5,Dinant (Belgium) to Roubaix,Flat,208.5,Pietro Guerra,Italia
 1971,1971-07-02,6a,Roubaix to Amiens,Flat,127.5,Eric Leman,Bélgica
@@ -1189,7 +1189,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1971,1971-07-14,16b,Eaux-Bonnes[c] to Pau,Flat,57.5,Herman Van Springel,Bélgica
 1971,1971-07-15,17,Mont-de-Marsan to Bordeaux,Flat,188.0,Eddy Merckx,Bélgica
 1971,1971-07-16,18,Bordeaux to Poitiers,Flat,244.0,Jean-Pierre Danguillaume,Francia
-1971,1971-07-17,19,Blois to Versailles,Flat,185.0,Jan Krekels,Paises Bajos
+1971,1971-07-17,19,Blois to Versailles,Flat,185.0,Jan Krekels,Países Bajos
 1971,1971-07-18,20,Versailles to Paris,Individual time-trial,53.8,Eddy Merckx,Bélgica
 1972,1972-07-01,P,Angers,Individual time-trial,7.2,Eddy Merckx,Bélgica
 1972,1972-07-02,1,Angers to Saint-Brieuc,Flat,235.5,Cyrille Guimard,Francia
@@ -1199,7 +1199,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1972,1972-07-05,4,Merlin-Plage to Royan,Flat,236.0,Cyrille Guimard,Francia
 1972,1972-07-06,5a,Royan to Bordeaux,Flat,133.5,Walter Godefroot,Bélgica
 1972,1972-07-06,5b,Bordeaux,Individual time-trial,12.7,Eddy Merckx,Bélgica
-1972,1972-07-07,6,Bordeaux to Bayonne,Flat,205.0,Leo Duyndam,Paises Bajos
+1972,1972-07-07,6,Bordeaux to Bayonne,Flat,205.0,Leo Duyndam,Países Bajos
 1972,1972-07-09,7,Bayonne to Pau,Mountain,220.5,Yves Hézard,Francia
 1972,1972-07-10,8,Pau to Luchon,Mountain,163.5,Eddy Merckx,Bélgica
 1972,1972-07-11,9,Luchon to Colomiers,Hilly,179.0,Jos Huysmans,Bélgica
@@ -1212,17 +1212,17 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1972,1972-07-18,15,Aix-les-Bains to Le Revard,Mountain,28.0,Cyrille Guimard,Francia
 1972,1972-07-19,16,Aix-les-Bains to Pontarlier,Hilly,198.5,Willy Teirlinck,Bélgica
 1972,1972-07-20,17,Pontarlier to Ballon d'Alsace,Hilly,213.0,Bernard Thévenet,Francia
-1972,1972-07-21,18,Vesoul to Auxerre,Flat,257.5,Marinus Wagtmans,Paises Bajos
+1972,1972-07-21,18,Vesoul to Auxerre,Flat,257.5,Marinus Wagtmans,Países Bajos
 1972,1972-07-22,19,Auxerre to Versailles,Flat,230.0,Joseph Bruyère,Bélgica
 1972,1972-07-23,20a,Versailles,Individual time-trial,42.0,Eddy Merckx,Bélgica
 1972,1972-07-23,20b,Versailles to Paris,Flat,89.0,Willy Teirlinck,Bélgica
-1973,1973-06-30,P,Scheveningen (Netherlands),Individual time-trial,7.1,Joop Zoetemelk,Paises Bajos
+1973,1973-06-30,P,Scheveningen (Netherlands),Individual time-trial,7.1,Joop Zoetemelk,Países Bajos
 1973,1973-07-01,1a,Scheveningen (Netherlands) to Rotterdam (Netherlands),Flat,84.0,Willy Teirlinck,Bélgica
 1973,1973-07-01,1b,Rotterdam (Netherlands) to Sint-Niklaas (Belgium),Flat,137.5,José Catieau,Francia
 1973,1973-07-02,2a,Sint-Niklaas (Belgium),Team time-trial,12.4,Watney–Maes Pils,
 1973,1973-07-02,2b,Sint-Niklaas (Belgium) to Roubaix,Flat,138.0,Eddy Verstraeten,Bélgica
 1973,1973-07-03,3,Roubaix to Reims,Flat,226.0,Cyrille Guimard,Francia
-1973,1973-07-04,4,Reims to Nancy,Flat,214.0,Joop Zoetemelk,Paises Bajos
+1973,1973-07-04,4,Reims to Nancy,Flat,214.0,Joop Zoetemelk,Países Bajos
 1973,1973-07-05,5,Nancy to Mulhouse,Mountain,188.0,Walter Godefroot,Bélgica
 1973,1973-07-06,6,Mulhouse to Divonne-les-Bains,Mountain,244.5,Jean-Pierre Danguillaume,Francia
 1973,1973-07-08,7a,Divonne-les-Bains to Gaillard,Mountain,86.5,Luis Ocaña,España
@@ -1245,7 +1245,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1973,1973-07-22,20b,Versailles to Paris,Flat,89.0,Bernard Thévenet,Francia
 1974,1974-06-27,P,Brest,Individual time-trial,7.0,Eddy Merckx,Bélgica
 1974,1974-06-28,1,Brest to Saint-Pol-de-Léon,Flat,144.0,Ercole Gualazzini,Italia
-1974,1974-06-29,2,Plymouth (United Kingdom),Flat,164.0,Henk Poppe,Paises Bajos
+1974,1974-06-29,2,Plymouth (United Kingdom),Flat,164.0,Henk Poppe,Países Bajos
 1974,1974-06-30,3,Morlaix to Saint-Malo,Flat,190.0,Patrick Sercu,Bélgica
 1974,1974-07-01,4,Saint-Malo to Caen,Flat,184.0,Patrick Sercu,Bélgica
 1974,1974-07-02,5,Caen to Dieppe,Flat,165.0,Ronald de Witte,Bélgica
@@ -1266,25 +1266,25 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1974,1974-07-17,18,Bagnères-de-Bigorre to Pau,Mountain,141.0,Jean-Pierre Danguillaume,Francia
 1974,1974-07-18,19a,Pau to Bordeaux,Flat,196.0,Francis Campaner,Francia
 1974,1974-07-18,19b,Bordeaux,Individual time-trial,12.0,Eddy Merckx,Bélgica
-1974,1974-07-19,20,Saint-Gilles-Croix-de-Vie to Nantes,Flat,120.0,Gerard Vianen,Paises Bajos
+1974,1974-07-19,20,Saint-Gilles-Croix-de-Vie to Nantes,Flat,120.0,Gerard Vianen,Países Bajos
 1974,1974-07-20,21a,Vouvray to Orléans,Flat,113.0,Eddy Merckx,Bélgica
 1974,1974-07-20,21b,Orléans,Individual time-trial,37.0,Michel Pollentier,Bélgica
 1974,1974-07-21,22,Orléans to Paris,Flat,146.0,Eddy Merckx,Bélgica
 1975,1975-06-26,P,Charleroi (Belgium),Individual time-trial,6.0,Francesco Moser,Italia
-1975,1975-06-27,1a,Charleroi (Belgium) to Molenbeek (Belgium),Flat,94.0,Cees Priem,Paises Bajos
+1975,1975-06-27,1a,Charleroi (Belgium) to Molenbeek (Belgium),Flat,94.0,Cees Priem,Países Bajos
 1975,1975-06-27,1b,Molenbeek (Belgium) to Roubaix,Flat,109.0,Rik Van Linden,Bélgica
 1975,1975-06-28,2,Roubaix to Amiens,Flat,121.0,Ronald de Witte,Bélgica
 1975,1975-06-29,3,Amiens to Versailles,Flat,170.0,Karel Rottiers,Bélgica
 1975,1975-06-30,4,Versailles to Le Mans,Flat,223.0,Jacques Esclassan,Francia
-1975,1975-07-02,5,Sablé-sur-Sarthe to Merlin-Plage,Flat,222.0,Theo Smit,Paises Bajos
+1975,1975-07-02,5,Sablé-sur-Sarthe to Merlin-Plage,Flat,222.0,Theo Smit,Países Bajos
 1975,1975-07-02,6,Merlin-Plage,Individual time-trial,16.0,Eddy Merckx,Bélgica
 1975,1975-07-03,7,Saint-Gilles-Croix-de-Vie to Angoulême,Flat,236.0,Francesco Moser,Italia
 1975,1975-07-04,8,Angoulême to Bordeaux,Flat,134.0,Barry Hoban,Reino Unido
-1975,1975-07-05,9a,Langon to Fleurance,Flat,131.0,Theo Smit,Paises Bajos
+1975,1975-07-05,9a,Langon to Fleurance,Flat,131.0,Theo Smit,Países Bajos
 1975,1975-07-05,9b,Fleurance to Auch,Individual time-trial,37.0,Eddy Merckx,Bélgica
 1975,1975-07-07,10,Auch to Pau,Mountain,206.0,Felice Gimondi,Italia
-1975,1975-07-08,11,Pau to Saint-Lary-Soulan Pla d'Adet,Mountain,160.0,Joop Zoetemelk,Paises Bajos
-1975,1975-07-09,12,Tarbes to Albi,Flat,242.0,Gerrie Knetemann,Paises Bajos
+1975,1975-07-08,11,Pau to Saint-Lary-Soulan Pla d'Adet,Mountain,160.0,Joop Zoetemelk,Países Bajos
+1975,1975-07-09,12,Tarbes to Albi,Flat,242.0,Gerrie Knetemann,Países Bajos
 1975,1975-07-10,13,Albi to Super-Lioran,Mountain,260.0,Michel Pollentier,Bélgica
 1975,1975-07-11,14,Aurillac to Puy de Dôme,Mountain,174.0,Lucien Van Impe,Bélgica
 1975,1975-07-13,15,Nice to Pra-Loup,Mountain,217.0,Bernard Thévenet,Francia
@@ -1299,14 +1299,14 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1976,1976-06-25,1,Saint-Jean-de-Monts to Angers,Flat,173.0,Freddy Maertens,Bélgica
 1976,1976-06-26,2,Angers to Caen,Flat,237.0,Giovanni Battaglin,Italia
 1976,1976-06-27,3,Le Touquet-Paris-Plage to Le Touquet-Paris-Plage,Individual time-trial,37.0,Freddy Maertens,Bélgica
-1976,1976-06-28,4,Le Touquet-Paris-Plage to Bornem (Belgium),Flat,258.0,Hennie Kuiper,Paises Bajos
+1976,1976-06-28,4,Le Touquet-Paris-Plage to Bornem (Belgium),Flat,258.0,Hennie Kuiper,Países Bajos
 1976,1976-06-29,5a,Leuven (Belgium) to Leuven (Belgium),Team time-trial,4.0,TI–Raleigh–Campagnolo,
 1976,1976-06-29,5b,Leuven (Belgium) to Verviers (Belgium),Double sector,144.0,Miguel María Lasa,España
 1976,1976-06-30,6,Bastogne to Nancy,Flat,209.0,Aldo Parecchini,Italia
 1976,1976-07-01,7,Nancy to Mulhouse,Hilly,206.0,Freddy Maertens,Bélgica
 1976,1976-07-02,8,Valentigney to Divonne-les-Bains,Hilly,220.0,Jacques Esclassan,Francia
-1976,1976-07-04,9,Divonne-les-Bains to Alpe d'Huez,Mountain,258.0,Joop Zoetemelk,Paises Bajos
-1976,1976-07-05,10,Le Bourg-d'Oisans to Montgenèvre,Mountain,166.0,Joop Zoetemelk,Paises Bajos
+1976,1976-07-04,9,Divonne-les-Bains to Alpe d'Huez,Mountain,258.0,Joop Zoetemelk,Países Bajos
+1976,1976-07-05,10,Le Bourg-d'Oisans to Montgenèvre,Mountain,166.0,Joop Zoetemelk,Países Bajos
 1976,1976-07-06,11,Montgenèvre to Manosque,Mountain,224.0,José Viejo,España
 1976,1976-07-08,12,Le Barcarès to Bolquères Pyrenees 2000 [fr],Mountain,205.0,Raymond Delisle,Francia
 1976,1976-07-09,13,Font-Romeu-Odeillo-Via to Saint-Gaudens,Mountain,188.0,Willy Teirlinck,Bélgica
@@ -1316,12 +1316,12 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1976,1976-07-13,17,Fleurance to Auch,Individual time-trial,39.0,Ferdinand Bracke,Bélgica
 1976,1976-07-14,18a,Auch to Langon,Double sector,86.0,Freddy Maertens,Bélgica
 1976,1976-07-14,18b,Langon to Lacanau,Double sector,123.0,Freddy Maertens,Bélgica
-1976,1976-07-14,18c,Lacanau to Bordeaux,Double sector,70.0,Gerben Karstens,Paises Bajos
+1976,1976-07-14,18c,Lacanau to Bordeaux,Double sector,70.0,Gerben Karstens,Países Bajos
 1976,1976-07-15,19,Sainte-Foy-la-Grande to Tulle,Flat,220.0,Hubert Mathis,Francia
-1976,1976-07-16,20,Tulle to Puy-de-Dôme,Mountain,220.0,Joop Zoetemelk,Paises Bajos
+1976,1976-07-16,20,Tulle to Puy-de-Dôme,Mountain,220.0,Joop Zoetemelk,Países Bajos
 1976,1976-07-17,21,Montargis to Versailles,Flat,145.0,Freddy Maertens,Bélgica
 1976,1976-07-18,22a,Paris,Individual time-trial,6.0,Freddy Maertens,Bélgica
-1976,1976-07-18,22b,Paris to Paris (Champs-Élysées),Double sector,91.0,Gerben Karstens,Paises Bajos
+1976,1976-07-18,22b,Paris to Paris (Champs-Élysées),Double sector,91.0,Gerben Karstens,Países Bajos
 1977,1977-06-30,P,Fleurance,Individual time-trial,5.0,Dietrich Thurau,Alemania
 1977,1977-07-01,1,Fleurance to Auch,Flat,237.0,Pierre-Raymond Villemiane,Francia
 1977,1977-07-02,2,Auch to Pau,Mountain,253.0,Dietrich Thurau,Alemania
@@ -1329,12 +1329,12 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1977,1977-07-04,4,Vitoria-Gasteiz (Spain) to Seignosse le Penon,Mountain,256.0,Régis Delépine,Francia
 1977,1977-07-05,5a,Morcenx to Bordeaux,Flat,139.0,Jacques Esclassan,Francia
 1977,1977-07-05,5b,Bordeaux,Individual time-trial,30.0,Dietrich Thurau,Alemania
-1977,1977-07-07,6,Bordeaux to Limoges,Flat,225.0,Jan Raas,Paises Bajos
+1977,1977-07-07,6,Bordeaux to Limoges,Flat,225.0,Jan Raas,Países Bajos
 1977,1977-07-08,7a,Jaunay-Clan to Angers,Flat,140.0,Patrick Sercu,Bélgica
 1977,1977-07-08,7b,Angers,Team time-trial,4.0,Fiat France,
 1977,1977-07-09,8,Angers to Lorient,Flat,247.0,Giacinto Santambrogio,Italia
 1977,1977-07-10,9,Lorient to Rennes,Mountain,187.0,Klaus-Peter Thaler,Alemania
-1977,1977-07-11,10,Bagnoles-de-l'Orne to Rouen,Flat,174.0,Fedor den Hertog,Paises Bajos
+1977,1977-07-11,10,Bagnoles-de-l'Orne to Rouen,Flat,174.0,Fedor den Hertog,Países Bajos
 1977,1977-07-12,11,Rouen to Roubaix,Flat,242.0,Jean-Pierre Danguillaume,Francia
 1977,1977-07-13,12,Roubaix to Charleroi (Belgium),Mountain,193.0,Patrick Sercu,Bélgica
 1977,1977-07-14,13a,Freiburg (West Germany),Flat,46.0,Patrick Sercu,Bélgica
@@ -1343,15 +1343,15 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1977,1977-07-17,15a,Thonon-les-Bains to Morzine,Mountain,105.0,Paul Wellens,Bélgica
 1977,1977-07-17,15b,Morzine to Avoriaz,Individual time-trial,14.0,Lucien Van Impe,Bélgica
 1977,1977-07-18,16,Morzine to Chamonix,Mountain,121.0,Dietrich Thurau,Alemania
-1977,1977-07-19,17,Chamonix to Alpe d'Huez,Mountain,185.0,Hennie Kuiper,Paises Bajos
+1977,1977-07-19,17,Chamonix to Alpe d'Huez,Mountain,185.0,Hennie Kuiper,Países Bajos
 1977,1977-07-20,18,Rossignol Voiron to Saint-Étienne,Mountain,199.0,no winner,
-1977,1977-07-21,19,Saint-Trivier-sur-Moignans to Dijon,Flat,172.0,Gerrie Knetemann,Paises Bajos
+1977,1977-07-21,19,Saint-Trivier-sur-Moignans to Dijon,Flat,172.0,Gerrie Knetemann,Países Bajos
 1977,1977-07-22,20,Dijon,Individual time-trial,50.0,Bernard Thévenet,Francia
-1977,1977-07-23,21,Montereau-Fault-Yonne to Versailles,Flat,142.0,Gerrie Knetemann,Paises Bajos
+1977,1977-07-23,21,Montereau-Fault-Yonne to Versailles,Flat,142.0,Gerrie Knetemann,Países Bajos
 1977,1977-07-24,22a,Paris,Individual time-trial,6.0,Dietrich Thurau,Alemania
 1977,1977-07-24,22b,Paris (Champs-Élysées),Flat,91.0,Alain Meslet,Francia
-1978,1978-06-29,P,Leiden (Netherlands),Individual time-trial,5.0,Jan Raas,Paises Bajos
-1978,1978-06-30,1a,Leiden to Sint Willebrord (Netherlands),Flat,135.0,Jan Raas,Paises Bajos
+1978,1978-06-29,P,Leiden (Netherlands),Individual time-trial,5.0,Jan Raas,Países Bajos
+1978,1978-06-30,1a,Leiden to Sint Willebrord (Netherlands),Flat,135.0,Jan Raas,Países Bajos
 1978,1978-06-30,1b,Sint Willebrord (Netherlands) to Brussels (Belgium),Flat,100.0,Walter Planckaert,Bélgica
 1978,1978-07-01,2,Brussels (Belgium) to Saint-Amand-les-Eaux,Flat,199.0,Jacques Esclassan,Francia
 1978,1978-07-02,3,Saint-Amand-les-Eaux to Saint-Germain-en-Laye,Flat,244.0,Klaus-Peter Thaler,Alemania
@@ -1361,31 +1361,31 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1978,1978-07-06,7,Poitiers to Bordeaux,Flat,242.0,Freddy Maertens,Bélgica
 1978,1978-07-07,8,Saint-Émilion to Sainte-Foy-la-Grande,Individual time-trial,59.0,Bernard Hinault,Francia
 1978,1978-07-08,9,Bordeaux to Biarritz,Flat,233.0,Miguel María Lasa,España
-1978,1978-07-10,10,Biarritz to Pau,Hilly,192.0,Henk Lubberding,Paises Bajos
+1978,1978-07-10,10,Biarritz to Pau,Hilly,192.0,Henk Lubberding,Países Bajos
 1978,1978-07-11,11,Pau to Saint-Lary-Soulan Pla d'Adet,Mountain,161.0,Mariano Martínez,Francia
 1978,1978-07-12,12a,Tarbes to Valence d'Agen,Flat,158.0,Cancelled,
 1978,1978-07-12,12b,Valence d'Agen to Toulouse,Flat,96.0,Jacques Esclassan,Francia
 1978,1978-07-13,13,Figeac to Super Besse,Hilly,221.0,Paul Wellens,Bélgica
-1978,1978-07-14,14,Besse-en-Chandesse to Puy-de-Dôme,Individual time-trial,52.0,Joop Zoetemelk,Paises Bajos
+1978,1978-07-14,14,Besse-en-Chandesse to Puy-de-Dôme,Individual time-trial,52.0,Joop Zoetemelk,Países Bajos
 1978,1978-07-15,15,Saint-Dier-d'Auvergne to Saint-Étienne,Hilly,196.0,Bernard Hinault,Francia
-1978,1978-07-16,16,St-Étienne to Alpe d'Huez,Mountain,241.0,Hennie Kuiper,Paises Bajos
+1978,1978-07-16,16,St-Étienne to Alpe d'Huez,Mountain,241.0,Hennie Kuiper,Países Bajos
 1978,1978-07-18,17,Grenoble to Morzine,Mountain,225.0,Christian Seznec,Francia
-1978,1978-07-19,18,Morzine to Lausanne (Switzerland),Flat,137.0,Gerrie Knetemann,Paises Bajos
+1978,1978-07-19,18,Morzine to Lausanne (Switzerland),Flat,137.0,Gerrie Knetemann,Países Bajos
 1978,1978-07-20,19,Lausanne (Switzerland) to Belfort,Flat,182.0,Marc Demeyer,Bélgica
 1978,1978-07-21,20,Metz to Nancy,Individual time-trial,72.0,Bernard Hinault,Francia
-1978,1978-07-22,21,Épernay to Senlis,Flat,207.0,Jan Raas,Paises Bajos
-1978,1978-07-23,22,Saint Germain en Laye to Paris (Champs-Élysées),Flat,162.0,Gerrie Knetemann,Paises Bajos
-1979,1979-06-27,P,Fleurance,Individual time-trial,5.0,Gerrie Knetemann,Paises Bajos
+1978,1978-07-22,21,Épernay to Senlis,Flat,207.0,Jan Raas,Países Bajos
+1978,1978-07-23,22,Saint Germain en Laye to Paris (Champs-Élysées),Flat,162.0,Gerrie Knetemann,Países Bajos
+1979,1979-06-27,P,Fleurance,Individual time-trial,5.0,Gerrie Knetemann,Países Bajos
 1979,1979-06-28,1,Fleurance to Luchon,Mountain,225.0,René Bittinger,Francia
 1979,1979-06-29,2,Luchon to Superbagnères,Individual time-trial,24.0,Bernard Hinault,Francia
 1979,1979-06-30,3,Luchon to Pau,Mountain,180.0,Bernard Hinault,Francia
 1979,1979-07-01,4,Captieux to Bordeaux,Team time-trial,87.0,TI–Raleigh–McGregor,
-1979,1979-07-02,5,Neuville-de-Poitou to Angers,Flat,145.0,Jan Raas,Paises Bajos
+1979,1979-07-02,5,Neuville-de-Poitou to Angers,Flat,145.0,Jan Raas,Países Bajos
 1979,1979-07-03,6,Angers to Saint-Brieuc,Flat,239.0,Jos Jacobs,Bélgica
-1979,1979-07-04,7,Saint-Hilaire-du-Harcouët to Deauville,Flat,158.0,Leo van Vliet,Paises Bajos
+1979,1979-07-04,7,Saint-Hilaire-du-Harcouët to Deauville,Flat,158.0,Leo van Vliet,Países Bajos
 1979,1979-07-05,8,Deauville to Le Havre,Team time-trial,90.0,TI–Raleigh–McGregor,
 1979,1979-07-06,9,Amiens to Roubaix,Flat,201.0,Ludo Delcroix,Bélgica
-1979,1979-07-07,10,Roubaix to Brussels (Belgium),Flat,124.0,Jo Maas,Paises Bajos
+1979,1979-07-07,10,Roubaix to Brussels (Belgium),Flat,124.0,Jo Maas,Países Bajos
 1979,1979-07-08,11,Brussels (Belgium),Individual time-trial,33.0,Bernard Hinault,Francia
 1979,1979-07-09,12,Rochefort (Belgium) to Metz,Flat,193.0,Christian Seznec,Francia
 1979,1979-07-10,13,Metz to Ballon d'Alsace,Hilly,202.0,Pierre-Raymond Villemiane,Francia
@@ -1393,28 +1393,28 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1979,1979-07-12,15,Évian-les-Bains to Morzine Avoriaz,Individual time-trial,54.0,Bernard Hinault,Francia
 1979,1979-07-13,16,Morzine Avoriaz to Les Menuires,Mountain,201.0,Lucien Van Impe,Bélgica
 1979,1979-07-15,17,Les Menuires to Alpe d'Huez,Mountain,167.0,Joaquim Agostinho,Portugal
-1979,1979-07-16,18,Alpe d'Huez to Alpe d'Huez,Mountain,119.0,Joop Zoetemelk,Paises Bajos
+1979,1979-07-16,18,Alpe d'Huez to Alpe d'Huez,Mountain,119.0,Joop Zoetemelk,Países Bajos
 1979,1979-07-17,19,Alpe d'Huez to Saint-Priest,Flat,162.0,Dietrich Thurau,Alemania
 1979,1979-07-18,20,Saint-Priest to Dijon,Flat,240.0,Serge Parsani,Italia
 1979,1979-07-19,21,Dijon,Individual time-trial,49.0,Bernard Hinault,Francia
-1979,1979-07-20,22,Dijon to Auxerre,Flat,189.0,Gerrie Knetemann,Paises Bajos
+1979,1979-07-20,22,Dijon to Auxerre,Flat,189.0,Gerrie Knetemann,Países Bajos
 1979,1979-07-21,23,Auxerre to Nogent-sur-Marne,Flat,205.0,Bernard Hinault,Francia
 1979,1979-07-22,24,Le Perreux-sur-Marne to Paris (Champs-Élysées),Flat,180.0,Bernard Hinault,Francia
 1980,1980-06-26,P,Frankfurt (West Germany),Individual time-trial,8.0,Bernard Hinault,Francia
-1980,1980-06-27,1a,Frankfurt (West Germany) to Wiesbaden (West Germany),Flat,133.0,Jan Raas,Paises Bajos
+1980,1980-06-27,1a,Frankfurt (West Germany) to Wiesbaden (West Germany),Flat,133.0,Jan Raas,Países Bajos
 1980,1980-06-27,1b,Wiesbaden (West Germany) to Frankfurt (West Germany),Team time-trial,46.0,TI–Raleigh–Creda,
 1980,1980-06-28,2,Frankfurt (West Germany) to Metz,Flat,276.0,Rudy Pevenage,Bélgica
-1980,1980-06-29,3,Metz to Liège (Belgium),Flat,282.0,Henk Lubberding,Paises Bajos
+1980,1980-06-29,3,Metz to Liège (Belgium),Flat,282.0,Henk Lubberding,Países Bajos
 1980,1980-06-30,4,Spa (Belgium),Individual time-trial,35.0,Bernard Hinault,Francia
 1980,1980-07-01,5,Liège (Belgium) to Lille,Flat,249.0,Bernard Hinault,Francia
 1980,1980-07-02,6,Lille to Compiègne,Flat,216.0,Jean-Louis Gauthier,Francia
 1980,1980-07-03,7a,Compiègne to Beauvais,Team time-trial,65.0,TI–Raleigh–Creda,
-1980,1980-07-03,7b,Beauvais to Rouen,Flat,92.0,Jan Raas,Paises Bajos
-1980,1980-07-04,8,Flers to Saint-Malo,Flat,164.0,Bert Oosterbosch,Paises Bajos
-1980,1980-07-06,9,Saint-Malo to Nantes,Flat,205.0,Jan Raas,Paises Bajos
-1980,1980-07-07,10,Rochefort to Bordeaux,Flat,163.0,Cees Priem,Paises Bajos
-1980,1980-07-08,11,Damazan to Laplume,Individual time-trial,52.0,Joop Zoetemelk,Paises Bajos
-1980,1980-07-09,12,Agen to Pau,Flat,194.0,Gerrie Knetemann,Paises Bajos
+1980,1980-07-03,7b,Beauvais to Rouen,Flat,92.0,Jan Raas,Países Bajos
+1980,1980-07-04,8,Flers to Saint-Malo,Flat,164.0,Bert Oosterbosch,Países Bajos
+1980,1980-07-06,9,Saint-Malo to Nantes,Flat,205.0,Jan Raas,Países Bajos
+1980,1980-07-07,10,Rochefort to Bordeaux,Flat,163.0,Cees Priem,Países Bajos
+1980,1980-07-08,11,Damazan to Laplume,Individual time-trial,52.0,Joop Zoetemelk,Países Bajos
+1980,1980-07-09,12,Agen to Pau,Flat,194.0,Gerrie Knetemann,Países Bajos
 1980,1980-07-10,13,Pau to Bagnères-de-Luchon,Mountain,200.0,Raymond Martin,Francia
 1980,1980-07-11,14,Lézignan-Corbières to Montpellier,Flat,189.0,Ludo Peeters,Bélgica
 1980,1980-07-12,15,Montpellier to Martigues,Flat,160.0,Bernard Vallet,Francia
@@ -1422,21 +1422,21 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1980,1980-07-14,17,Serre Chevalier to Morzine,Mountain,242.0,Mariano Martínez,Francia
 1980,1980-07-16,18,Morzine to Prapoutel,Mountain,199.0,Ludo Loos,Bélgica
 1980,1980-07-17,19,Voreppe to Saint-Étienne,Hilly,140.0,Sean Kelly,Irlanda
-1980,1980-07-18,20,Saint-Étienne,Individual time-trial,34.0,Joop Zoetemelk,Paises Bajos
+1980,1980-07-18,20,Saint-Étienne,Individual time-trial,34.0,Joop Zoetemelk,Países Bajos
 1980,1980-07-19,21,Auxerre to Fontenay-sous-Bois,Flat,208.0,Sean Kelly,Irlanda
 1980,1980-07-20,22,Fontenay-sous-Bois to Paris (Champs-Élysées),Flat,186.0,Pol Verschuere,Bélgica
 1981,1981-06-25,P,Nice,Individual time-trial,6.0,Bernard Hinault,Francia
 1981,1981-06-26,1a,Nice,Hilly,97.0,Freddy Maertens,Bélgica
 1981,1981-06-26,1b,Nice,Team time-trial,40.0,TI–Raleigh–Creda,
-1981,1981-06-27,2,Nice to Martigues,Flat,254.0,Johan van der Velde,Paises Bajos
+1981,1981-06-27,2,Nice to Martigues,Flat,254.0,Johan van der Velde,Países Bajos
 1981,1981-06-28,3,Martigues to Narbonne,Flat,232.0,Freddy Maertens,Bélgica
 1981,1981-06-29,4,Narbonne to Carcassonne,Team time-trial,77.0,TI–Raleigh–Creda,
 1981,1981-06-30,5,Saint-Gaudens to Pla d'Adet,Mountain,117.0,Lucien Van Impe,Bélgica
 1981,1981-07-01,6,Nay to Pau,Individual time-trial,27.0,Bernard Hinault,Francia
 1981,1981-07-02,7,Pau to Bordeaux,Flat,227.0,Urs Freuler,Suiza
-1981,1981-07-03,8,Rochefort to Nantes,Flat,182.0,Ad Wijnands,Paises Bajos
+1981,1981-07-03,8,Rochefort to Nantes,Flat,182.0,Ad Wijnands,Países Bajos
 1981,1981-07-05,9,Nantes to Le Mans,Flat,197.0,René Martens,Bélgica
-1981,1981-07-06,10,Le Mans to Aulnay-sous-Bois,Flat,264.0,Ad Wijnands,Paises Bajos
+1981,1981-07-06,10,Le Mans to Aulnay-sous-Bois,Flat,264.0,Ad Wijnands,Países Bajos
 1981,1981-07-07,11,Compiègne to Roubaix,Flat,246.0,Daniel Willems,Bélgica
 1981,1981-07-08,12a,Roubaix to Brussels (Belgium),Flat,107.0,Freddy Maertens,Bélgica
 1981,1981-07-08,12b,Brussels (Belgium) to Circuit Zolder (Belgium),Flat,138.0,Eddy Planckaert,Bélgica
@@ -1444,53 +1444,53 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1981,1981-07-10,14,Mulhouse,Individual time-trial,38.0,Bernard Hinault,Francia
 1981,1981-07-11,15,Besançon to Thonon-les-Bains,Hilly,231.0,Sean Kelly,Irlanda
 1981,1981-07-12,16,Thonon-les-Bains to Morzine,Mountain,200.0,Robert Alban,Francia
-1981,1981-07-14,17,Morzine to Alpe d'Huez,Mountain,230.0,Peter Winnen,Paises Bajos
+1981,1981-07-14,17,Morzine to Alpe d'Huez,Mountain,230.0,Peter Winnen,Países Bajos
 1981,1981-07-15,18,Le Bourg-d'Oisans to Le Pleynet,Mountain,134.0,Bernard Hinault,Francia
 1981,1981-07-16,19,Veurey to Saint-Priest,Flat,118.0,Daniel Willems,Bélgica
 1981,1981-07-17,20,Saint-Priest,Individual time-trial,46.0,Bernard Hinault,Francia
-1981,1981-07-18,21,Auxerre to Fontenay-sous-Bois,Flat,207.0,Johan van der Velde,Paises Bajos
+1981,1981-07-18,21,Auxerre to Fontenay-sous-Bois,Flat,207.0,Johan van der Velde,Países Bajos
 1981,1981-07-19,22,Fontenay-sous-Bois to Paris (Champs-Élysées),Flat,187.0,Freddy Maertens,Bélgica
 1982,1982-07-02,P,Basel (Switzerland),Individual time-trial,7.0,Bernard Hinault,Francia
 1982,1982-07-03,1,Basel (Switzerland) to Möhlin (Switzerland),Hilly,207.0,Ludo Peeters,Bélgica
 1982,1982-07-04,2,Basel (Switzerland) to Nancy,Flat,250.0,Phil Anderson,Australia
 1982,1982-07-05,3,Nancy to Longwy,Flat,134.0,Daniel Willems,Bélgica
-1982,1982-07-06,4,Beauraing (Belgium) to Mouscron (Belgium),Flat,219.0,Gerrie Knetemann,Paises Bajos
+1982,1982-07-06,4,Beauraing (Belgium) to Mouscron (Belgium),Flat,219.0,Gerrie Knetemann,Países Bajos
 1982,1982-07-07,5,Orchies to Fontaine-au-Pire,Team time-trial,73.0,Cancelled and replaced by stage 9a,
-1982,1982-07-08,6,Lille,Flat,233.0,Jan Raas,Paises Bajos
+1982,1982-07-08,6,Lille,Flat,233.0,Jan Raas,Países Bajos
 1982,1982-07-10,7,Cancale to Concarneau,Flat,235.0,Pol Verschuere,Bélgica
 1982,1982-07-11,8,Concarneau to Châteaulin,Flat,201.0,Frank Hoste,Bélgica
 1982,1982-07-12,9a,Lorient to Plumelec,Team time-trial,69.0,TI–Raleigh–Campagnolo,
 1982,1982-07-12,9b,Plumelec to Nantes,Flat,138.0,Stefan Mutter,Suiza
 1982,1982-07-13,10,Saintes to Bordeaux,Flat,147.0,Pierre-Raymond Villemiane,Francia
-1982,1982-07-14,11,Valence d'Agen,Individual time-trial,57.0,Gerrie Knetemann,Paises Bajos
+1982,1982-07-14,11,Valence d'Agen,Individual time-trial,57.0,Gerrie Knetemann,Países Bajos
 1982,1982-07-15,12,Fleurance to Pau,Mountain,249.0,Sean Kelly,Irlanda
 1982,1982-07-16,13,Pau to Saint-Lary-Soulan Pla d'Adet,Mountain,122.0,Beat Breu,Suiza
 1982,1982-07-18,14,Martigues,Individual time-trial,33.0,Bernard Hinault,Francia
 1982,1982-07-19,15,Manosque to Orcières-Merlette,Mountain,208.0,Pascal Simon,Francia
 1982,1982-07-20,16,Orcières-Merlette to Alpe d'Huez,Mountain,123.0,Beat Breu,Suiza
-1982,1982-07-21,17,Le Bourg-d'Oisans to Morzine,Mountain,251.0,Peter Winnen,Paises Bajos
-1982,1982-07-22,18,Morzine to Saint-Priest,Flat,233.0,Adrie van Houwelingen,Paises Bajos
+1982,1982-07-21,17,Le Bourg-d'Oisans to Morzine,Mountain,251.0,Peter Winnen,Países Bajos
+1982,1982-07-22,18,Morzine to Saint-Priest,Flat,233.0,Adrie van Houwelingen,Países Bajos
 1982,1982-07-23,19,Saint-Priest,Individual time-trial,48.0,Bernard Hinault,Francia
 1982,1982-07-24,20,Sens to Aulnay-sous-Bois,Flat,161.0,Daniel Willems,Bélgica
 1982,1982-07-25,21,Fontenay-sous-Bois to Paris (Champs-Élysées),Flat,187.0,Bernard Hinault,Francia
 1983,1983-07-01,P,Fontenay-sous-Bois,Individual time-trial,6.0,Eric Vanderaerden,Bélgica
-1983,1983-07-02,1,Nogent-sur-Marne to Créteil,Flat,163.0,Frits Pirard,Paises Bajos
+1983,1983-07-02,1,Nogent-sur-Marne to Créteil,Flat,163.0,Frits Pirard,Países Bajos
 1983,1983-07-03,2,Soissons to Fontaine-au-Pire,Team time-trial,100.0,COOP–Mercier–Mavic,
 1983,1983-07-04,3,Valenciennes to Roubaix,Hilly,152.0,Rudy Matthijs,Bélgica
 1983,1983-07-05,4,Roubaix to Le Havre,Flat,300.0,Serge Demierre,Suiza
 1983,1983-07-06,5,Le Havre to Le Mans,Flat,257.0,Dominique Gaigne,Francia
-1983,1983-07-07,6,Châteaubriant to Nantes,Individual time-trial,58.0,Bert Oosterbosch,Paises Bajos
+1983,1983-07-07,6,Châteaubriant to Nantes,Individual time-trial,58.0,Bert Oosterbosch,Países Bajos
 1983,1983-07-08,7,Nantes to Île d'Oléron,Flat,216.0,Riccardo Magrini,Italia
-1983,1983-07-09,8,La Rochelle to Bordeaux,Flat,222.0,Bert Oosterbosch,Paises Bajos
+1983,1983-07-09,8,La Rochelle to Bordeaux,Flat,222.0,Bert Oosterbosch,Países Bajos
 1983,1983-07-10,9,Bordeaux to Pau,Flat,207.0,Philippe Chevallier,Francia
 1983,1983-07-11,10,Pau to Bagnères-de-Luchon,Mountain,201.0,Robert Millar,Reino Unido
 1983,1983-07-12,11,Bagnères-de-Luchon to Fleurance,Flat,177.0,Régis Clère,Francia
 1983,1983-07-13,12,Fleurance to Roquefort-sur-Soulzon,Flat,261.0,Kim Andersen,Dinamarca
-1983,1983-07-14,13,Roquefort-sur-Soulzon to Aurillac,Hilly,210.0,Henk Lubberding,Paises Bajos
+1983,1983-07-14,13,Roquefort-sur-Soulzon to Aurillac,Hilly,210.0,Henk Lubberding,Países Bajos
 1983,1983-07-15,14,Aurillac to Issoire,Hilly,149.0,Pierre Le Bigaut,Francia
 1983,1983-07-16,15,Clermont-Ferrand to Puy-de-Dôme,Individual time-trial,16.0,Ángel Arroyo,España
 1983,1983-07-17,16,Issoire to Saint-Étienne,Hilly,144.0,Michel Laurent,Francia
-1983,1983-07-18,17,La Tour-du-Pin to Alpe d'Huez,Mountain,223.0,Peter Winnen,Paises Bajos
+1983,1983-07-18,17,La Tour-du-Pin to Alpe d'Huez,Mountain,223.0,Peter Winnen,Países Bajos
 1983,1983-07-20,18,Le Bourg-d'Oisans to Morzine,Mountain,247.0,Jacques Michaud,Francia
 1983,1983-07-21,19,Morzine to Avoriaz,Individual time-trial,15.0,Lucien Van Impe,Bélgica
 1983,1983-07-22,20,Morzine to Dijon,Flat,291.0,Philippe Leleu,Francia
@@ -1505,7 +1505,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1984,1984-07-04,6,Cergy-Pontoise to Alençon,Flat,202.0,Frank Hoste,Bélgica
 1984,1984-07-05,7,Alençon to Le Mans,Individual time-trial,67.0,Laurent Fignon,Francia
 1984,1984-07-06,8,Le Mans to Nantes,Flat,192.0,Pascal Jules,Francia
-1984,1984-07-07,9,Nantes to Bordeaux,Flat,338.0,Jan Raas,Paises Bajos
+1984,1984-07-07,9,Nantes to Bordeaux,Flat,338.0,Jan Raas,Países Bajos
 1984,1984-07-08,10,Langon to Pau,Flat,198.0,Eric Vanderaerden,Bélgica
 1984,1984-07-09,11,Pau to Guzet-Neige,Mountain,227.0,Robert Millar,Reino Unido
 1984,1984-07-10,12,Saint-Girons to Blagnac,Flat,111.0,Pascal Poisson,Francia
@@ -1524,12 +1524,12 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1985,1985-06-29,1,Vannes to Lanester,Flat,256.0,Rudy Matthijs,Bélgica
 1985,1985-06-30,2,Lorient to Vitre,Flat,242.0,Rudy Matthijs,Bélgica
 1985,1985-07-01,3,Vitre to Fougères,Team time-trial,73.0,La Vie Claire,
-1985,1985-07-02,4,Fougères to Pont-Audemer,Flat,239.0,Gerrit Solleveld,Paises Bajos
-1985,1985-07-03,5,Neufchâtel-en-Bray to Roubaix,Cobblestones,224.0,Henri Manders,Paises Bajos
+1985,1985-07-02,4,Fougères to Pont-Audemer,Flat,239.0,Gerrit Solleveld,Países Bajos
+1985,1985-07-03,5,Neufchâtel-en-Bray to Roubaix,Cobblestones,224.0,Henri Manders,Países Bajos
 1985,1985-07-04,6,Roubaix to Reims,Flat,222.0,Francis Castaing,Francia
 1985,1985-07-05,7,Reims to Nancy,Flat,217.0,Ludwig Wijnants,Bélgica
 1985,1985-07-06,8,Sarrebourg to Strasbourg,Individual time-trial,75.0,Bernard Hinault,Francia
-1985,1985-07-07,9,Strasbourg to Épinal,Hilly,174.0,Maarten Ducrot,Paises Bajos
+1985,1985-07-07,9,Strasbourg to Épinal,Hilly,174.0,Maarten Ducrot,Países Bajos
 1985,1985-07-08,10,Épinal to Pontarlier,Hilly,204.0,Jørgen V. Pedersen,Dinamarca
 1985,1985-07-09,11,Pontarlier to Morzine Avoriaz,Mountain,195.0,Luis Herrera,Colombia
 1985,1985-07-10,12,Morzine Avoriaz to Lans-en-Vercors,Mountain,269.0,Fabio Parra,Colombia
@@ -1541,7 +1541,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1985,1985-07-17,18a,Luz-Saint-Sauveur to Aubisque,Mountain,53.0,Stephen Roche,Irlanda
 1985,1985-07-17,18b,Laruns to Pau,Mountain,83.0,Régis Simon,Francia
 1985,1985-07-18,19,Pau to Bordeaux,Flat,203.0,Eric Vanderaerden,Bélgica
-1985,1985-07-19,20,Montpon-Ménestérol to Limoges,Flat,225.0,Johan Lammerts,Paises Bajos
+1985,1985-07-19,20,Montpon-Ménestérol to Limoges,Flat,225.0,Johan Lammerts,Países Bajos
 1985,1985-07-20,21,Lac de Vassivière,Individual time-trial,46.0,Greg LeMond,Estados Unidos
 1985,1985-07-21,22,Orléans to Paris (Champs-Élysées),Flat,196.0,Rudy Matthijs,Bélgica
 1986,1986-07-04,P,Boulogne-Billancourt,Individual time-trial,4.6,Thierry Marie,Francia
@@ -1549,7 +1549,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1986,1986-07-05,2,Meudon to Saint-Quentin-en-Yvelines,Team time-trial,56.0,Système U,
 1986,1986-07-06,3,Levallois-Perret to Liévin,Flat,214.0,Davis Phinney,Estados Unidos
 1986,1986-07-07,4,Liévin to Évreux,Flat,243.0,Pello Ruiz Cabestany,España
-1986,1986-07-08,5,Évreux to Villers-sur-Mer,Flat,124.5,Johan van der Velde,Paises Bajos
+1986,1986-07-08,5,Évreux to Villers-sur-Mer,Flat,124.5,Johan van der Velde,Países Bajos
 1986,1986-07-09,6,Villers-sur-Mer to Cherbourg,Flat,200.0,Guido Bontempi,Italia
 1986,1986-07-10,7,Cherbourg to Saint-Hilaire-du-Harcouët,Flat,201.0,Ludo Peeters,Bélgica
 1986,1986-07-11,8,Saint-Hilaire-du-Harcouët to Nantes,Flat,204.0,Eddy Planckaert,Bélgica
@@ -1568,24 +1568,24 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1986,1986-07-25,21,Saint-Étienne to Puy de Dôme,Flat,190.0,Erich Mächler,Suiza
 1986,1986-07-26,22,Clermont-Ferrand to Nevers,Flat,194.0,Guido Bontempi,Italia
 1986,1986-07-27,23,Cosne-sur-Loire to Paris (Champs-Élysées),Flat,255.0,Guido Bontempi,Italia
-1987,1987-07-01,P,West Berlin (West Germany),Individual time-trial,6.0,Jelle Nijdam,Paises Bajos
-1987,1987-07-02,1,West Berlin (West Germany),Flat,105.0,Nico Verhoeven,Paises Bajos
+1987,1987-07-01,P,West Berlin (West Germany),Individual time-trial,6.0,Jelle Nijdam,Países Bajos
+1987,1987-07-02,1,West Berlin (West Germany),Flat,105.0,Nico Verhoeven,Países Bajos
 1987,1987-07-02,2,West Berlin (West Germany),Team time-trial,41.0,Carrera Jeans–Vagabond,
 1987,1987-07-04,3,Karlsruhe (West Germany) to Stuttgart (West Germany),Flat,219.0,Acácio da Silva,Portugal
 1987,1987-07-05,4,Stuttgart (West Germany) to Pforzheim (West Germany),Flat,79.0,Herman Frison,Bélgica
 1987,1987-07-05,5,Pforzheim (West Germany) to Strasbourg,Flat,112.0,Marc Sergeant,Bélgica
 1987,1987-07-06,6,Strasbourg to Épinal,Flat,169.0,Christophe Lavainne,Francia
 1987,1987-07-07,7,Épinal to Troyes,Flat,211.0,Manuel Jorge Domínguez,España
-1987,1987-07-08,8,Troyes to Épinay-sous-Sénart,Flat,206.0,Jean-Paul van Poppel,Paises Bajos
-1987,1987-07-09,9,Orléans to Renazé,Flat,260.0,Adri van der Poel,Paises Bajos
+1987,1987-07-08,8,Troyes to Épinay-sous-Sénart,Flat,206.0,Jean-Paul van Poppel,Países Bajos
+1987,1987-07-09,9,Orléans to Renazé,Flat,260.0,Adri van der Poel,Países Bajos
 1987,1987-07-10,10,Saumur to Futuroscope,Individual time-trial,87.0,Stephen Roche,Irlanda
 1987,1987-07-11,11,Poitiers to Chaumeil,Hilly,206.0,Martial Gayant,Francia
 1987,1987-07-12,12,Brive to Bordeaux,Flat,228.0,Davis Phinney,Estados Unidos
-1987,1987-07-13,13,Bayonne to Pau,Mountain,219.0,Erik Breukink,Paises Bajos
+1987,1987-07-13,13,Bayonne to Pau,Mountain,219.0,Erik Breukink,Países Bajos
 1987,1987-07-14,14,Pau to Luz Ardiden,Mountain,166.0,Dag Otto Lauritzen,Noruega
 1987,1987-07-15,15,Tarbes to Blagnac,Flat,164.0,Rolf Gölz,Alemania
 1987,1987-07-16,16,Blagnac to Millau,Hilly,216.0,Régis Clère,Francia
-1987,1987-07-17,17,Millau to Avignon,Hilly,239.0,Jean-Paul van Poppel,Paises Bajos
+1987,1987-07-17,17,Millau to Avignon,Hilly,239.0,Jean-Paul van Poppel,Países Bajos
 1987,1987-07-19,18,Carpentras to Mont Ventoux,Mountain time-trial,37.0,Jean-François Bernard,Francia
 1987,1987-07-20,19,Valréas to Villard-de-Lans,Mountain,185.0,Pedro Delgado,España
 1987,1987-07-21,20,Villard-de-Lans to Alpe d'Huez,Mountain,201.0,Federico Echave,España
@@ -1595,80 +1595,80 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1987,1987-07-25,24,Dijon,Individual time-trial,38.0,Jean-François Bernard,Francia
 1987,1987-07-26,25,Créteil to Paris (Champs-Élysées),Flat,192.0,Jeff Pierce,Estados Unidos
 1988,1988-07-03,P,Pornichet to La Baule,Individual time-trial,1.0,Guido Bontempi,Italia
-1988,1988-07-04,1,Pontchâteau to Machecoul,Flat,92.0,Steve Bauer,canada
+1988,1988-07-04,1,Pontchâteau to Machecoul,Flat,92.0,Steve Bauer,Canada
 1988,1988-07-04,2,La Haie-Fouassière to Ancenis,Team time-trial,48.0,Panasonic–Isostar–Colnago–Agu,
-1988,1988-07-05,3,Nantes to Le Mans,Flat,213.0,Jean-Paul van Poppel,Paises Bajos
+1988,1988-07-05,3,Nantes to Le Mans,Flat,213.0,Jean-Paul van Poppel,Países Bajos
 1988,1988-07-06,4,Le Mans to Évreux,Flat,158.0,Acácio da Silva,Portugal
-1988,1988-07-07,5,Neufchâtel-en-Bray to Liévin,Flat,148.0,Jelle Nijdam,Paises Bajos
+1988,1988-07-07,5,Neufchâtel-en-Bray to Liévin,Flat,148.0,Jelle Nijdam,Países Bajos
 1988,1988-07-08,6,Liévin to Wasquehal,Individual time-trial,52.0,Sean Yates,Reino Unido
 1988,1988-07-09,7,Wasquehal to Reims,Flat,225.0,Valerio Tebaldi,Italia
 1988,1988-07-10,8,Reims to Nancy,Flat,219.0,Rolf Gölz,Alemania
 1988,1988-07-11,9,Nancy to Strasbourg,Hilly,161.0,Jérôme Simon,Francia
-1988,1988-07-12,10,Belfort to Besançon,Hilly,149.0,Jean-Paul van Poppel,Paises Bajos
+1988,1988-07-12,10,Belfort to Besançon,Hilly,149.0,Jean-Paul van Poppel,Países Bajos
 1988,1988-07-13,11,Besançon to Morzine,Mountain,232.0,Fabio Parra,Colombia
-1988,1988-07-14,12,Morzine to Alpe d'Huez,Mountain,227.0,Steven Rooks,Paises Bajos
+1988,1988-07-14,12,Morzine to Alpe d'Huez,Mountain,227.0,Steven Rooks,Países Bajos
 1988,1988-07-15,13,Grenoble to Villard-de-Lans,Mountain time-trial,38.0,Pedro Delgado,España
 1988,1988-07-17,14,Blagnac to Guzet-Neige,Mountain,163.0,Massimo Ghirotto,Italia
 1988,1988-07-18,15,Saint-Girons to Luz Ardiden,Mountain,187.0,Laudelino Cubino,España
-1988,1988-07-19,16,Luz Ardiden to Pau,Flat,35.0,Adri van der Poel,Paises Bajos
-1988,1988-07-19,17,Pau to Bordeaux,Flat,198.0,Jean-Paul van Poppel,Paises Bajos
+1988,1988-07-19,16,Luz Ardiden to Pau,Flat,35.0,Adri van der Poel,Países Bajos
+1988,1988-07-19,17,Pau to Bordeaux,Flat,198.0,Jean-Paul van Poppel,Países Bajos
 1988,1988-07-20,18,Ruelle-sur-Touvre to Limoges,Flat,94.0,Gianni Bugno,Italia
 1988,1988-07-21,19,Limoges to Puy-de-Dôme,Hilly,188.0,Johnny Weltz,Dinamarca
 1988,1988-07-22,20,Clermont-Ferrand to Chalon-sur-Saône,Flat,223.0,Thierry Marie,Francia
 1988,1988-07-23,21,Santenay,Individual time-trial,46.0,Juan Martinéz,España
-1988,1988-07-24,22,Nemours to Paris (Champs-Élysées),Flat,173.0,Jean-Paul van Poppel,Paises Bajos
-1989,1989-07-01,P,Luxembourg City (Luxembourg),Individual time-trial,7.8,Erik Breukink,Paises Bajos
+1988,1988-07-24,22,Nemours to Paris (Champs-Élysées),Flat,173.0,Jean-Paul van Poppel,Países Bajos
+1989,1989-07-01,P,Luxembourg City (Luxembourg),Individual time-trial,7.8,Erik Breukink,Países Bajos
 1989,1989-07-02,1,Luxembourg City (Luxembourg),Flat,135.5,Acácio da Silva,Portugal
 1989,1989-07-02,2,Luxembourg City (Luxembourg),Team time-trial,46.0,Super U–Raleigh–Fiat,
-1989,1989-07-03,3,Luxembourg City (Luxembourg) to Spa (Belgium),Flat,241.0,Raúl Alcalá,Máxico
-1989,1989-07-04,4,Liège (Belgium) to Wasquehal,Flat,255.0,Jelle Nijdam,Paises Bajos
+1989,1989-07-03,3,Luxembourg City (Luxembourg) to Spa (Belgium),Flat,241.0,Raúl Alcalá,México
+1989,1989-07-04,4,Liège (Belgium) to Wasquehal,Flat,255.0,Jelle Nijdam,Países Bajos
 1989,1989-07-06,5,Dinard to Rennes,Individual time-trial,73.0,Greg LeMond,Estados Unidos
 1989,1989-07-07,6,Rennes to Futuroscope,Flat,259.0,Joël Pelier,Francia
 1989,1989-07-08,7,Poitiers to Bordeaux,Flat,258.5,Etienne De Wilde,Bélgica
 1989,1989-07-09,8,Labastide-d'Armagnac to Pau,Flat,157.0,Martin Earley,Irlanda
 1989,1989-07-10,9,Pau to Cauterets,Mountain,147.0,Miguel Induráin,España
 1989,1989-07-11,10,Cauterets to Superbagnères,Mountain,136.0,Robert Millar,Reino Unido
-1989,1989-07-12,11,Luchon to Blagnac,Mountain,158.5,Mathieu Hermans,Paises Bajos
+1989,1989-07-12,11,Luchon to Blagnac,Mountain,158.5,Mathieu Hermans,Países Bajos
 1989,1989-07-13,12,Toulouse to Montpellier,Flat,242.0,Valerio Tebaldi,Italia
 1989,1989-07-14,13,Montpellier to Marseille,Flat,179.0,Vincent Barteau,Francia
-1989,1989-07-15,14,Marseille to Gap,Mountain,238.0,Jelle Nijdam,Paises Bajos
-1989,1989-07-16,15,Gap to Orcières-Merlette,Mountain time-trial,39.0,Steven Rooks,Paises Bajos
+1989,1989-07-15,14,Marseille to Gap,Mountain,238.0,Jelle Nijdam,Países Bajos
+1989,1989-07-16,15,Gap to Orcières-Merlette,Mountain time-trial,39.0,Steven Rooks,Países Bajos
 1989,1989-07-18,16,Gap to Briançon,Mountain,175.0,Pascal Richard,Suiza
-1989,1989-07-19,17,Briançon to Alpe d'Huez,Mountain,165.0,Gert-Jan Theunisse,Paises Bajos
+1989,1989-07-19,17,Briançon to Alpe d'Huez,Mountain,165.0,Gert-Jan Theunisse,Países Bajos
 1989,1989-07-20,18,Le Bourg-d'Oisans to Villard-de-Lans,Mountain,91.5,Laurent Fignon,Francia
 1989,1989-07-21,19,Villard-de-Lans to Aix-les-Bains,Mountain,125.0,Greg LeMond,Estados Unidos
 1989,1989-07-22,20,Aix-les-Bains to L'Isle-d'Abeau,Flat,130.0,Giovanni Fidanza,Italia
 1989,1989-07-23,21,Versailles to Paris (Champs-Élysées),Individual time-trial,24.5,Greg LeMond,Estados Unidos
 1990,1990-06-30,P,Futuroscope,Individual time-trial,6.3,Thierry Marie,Francia
-1990,1990-07-01,1,Futuroscope,Flat,138.5,Frans Maassen,Paises Bajos
+1990,1990-07-01,1,Futuroscope,Flat,138.5,Frans Maassen,Países Bajos
 1990,1990-07-01,2,Futuroscope,Team time-trial,44.5,Panasonic–Sportlife,
 1990,1990-07-02,3,Poitiers to Nantes,Flat,233.0,Moreno Argentin,Italia
 1990,1990-07-03,4,Nantes to Mont Saint-Michel,Flat,203.0,Johan Museeuw,Bélgica
-1990,1990-07-04,5,Avranches to Rouen,Flat,301.0,Gerrit Solleveld,Paises Bajos
-1990,1990-07-06,6,Sarrebourg to Vittel,Flat,202.5,Jelle Nijdam,Paises Bajos
-1990,1990-07-07,7,Vittel to Épinal,Individual time-trial,61.5,Raúl Alcalá,Máxico
+1990,1990-07-04,5,Avranches to Rouen,Flat,301.0,Gerrit Solleveld,Países Bajos
+1990,1990-07-06,6,Sarrebourg to Vittel,Flat,202.5,Jelle Nijdam,Países Bajos
+1990,1990-07-07,7,Vittel to Épinal,Individual time-trial,61.5,Raúl Alcalá,México
 1990,1990-07-08,8,Épinal to Besançon,Flat,181.5,Olaf Ludwig,Alemania
 1990,1990-07-09,9,Besançon to Geneva (Switzerland),Hilly,196.0,Massimo Ghirotto,Italia
 1990,1990-07-10,10,Geneva (Switzerland) to Saint-Gervais,Mountain,118.5,Thierry Claveyrolat,Francia
 1990,1990-07-11,11,Saint-Gervais to Alpe d'Huez,Mountain,182.5,Gianni Bugno,Italia
-1990,1990-07-12,12,Fontaine to Villard-de-Lans,Mountain time-trial,33.5,Erik Breukink,Paises Bajos
+1990,1990-07-12,12,Fontaine to Villard-de-Lans,Mountain time-trial,33.5,Erik Breukink,Países Bajos
 1990,1990-07-14,13,Villard-de-Lans to Saint-Étienne,Hilly,149.0,Eduardo Chozas,España
 1990,1990-07-15,14,Le Puy-en-Velay to Millau,Hilly,205.0,Marino Lejarreta,España
 1990,1990-07-16,15,Millau to Revel,Flat,170.0,Charly Mottet,Francia
 1990,1990-07-17,16,Blagnac to Luz Ardiden,Mountain,215.0,Miguel Induráin,España
-1990,1990-07-18,17,Lourdes to Pau,Mountain,150.0,Dimitri Konychev,Urss
+1990,1990-07-18,17,Lourdes to Pau,Mountain,150.0,Dimitri Konychev,URSS
 1990,1990-07-19,18,Pau to Bordeaux,Flat,202.0,Gianni Bugno,Italia
 1990,1990-07-20,19,Castillon-la-Bataille to Limoges,Flat,182.5,Guido Bontempi,Italia
-1990,1990-07-21,20,Lac de Vassivière to Lac de Vassivière,Individual time-trial,45.5,Erik Breukink,Paises Bajos
+1990,1990-07-21,20,Lac de Vassivière to Lac de Vassivière,Individual time-trial,45.5,Erik Breukink,Países Bajos
 1990,1990-07-22,21,Brétigny-sur-Orge to Paris (Champs-Élysées),Flat,182.5,Johan Museeuw,Bélgica
 1991,1991-07-06,P,Lyon,Individual time-trial,5.4,Thierry Marie,Francia
-1991,1991-07-07,1,Lyon to Lyon,Flat,114.5,Djamolidine Abdoujaparov,Urss
+1991,1991-07-07,1,Lyon to Lyon,Flat,114.5,Djamolidine Abdoujaparov,URSS
 1991,1991-07-07,2,Bron to Chassieu,Team time-trial,36.5,Ariostea,
 1991,1991-07-08,3,Villeurbanne to Dijon,Flat,210.5,Etienne De Wilde,Bélgica
-1991,1991-07-09,4,Dijon to Reims,Flat,286.0,Djamolidine Abdoujaparov,Urss
-1991,1991-07-10,5,Reims to Valenciennes,Flat,149.5,Jelle Nijdam,Paises Bajos
+1991,1991-07-09,4,Dijon to Reims,Flat,286.0,Djamolidine Abdoujaparov,URSS
+1991,1991-07-10,5,Reims to Valenciennes,Flat,149.5,Jelle Nijdam,Países Bajos
 1991,1991-07-11,6,Arras to Le Havre,Flat,259.0,Thierry Marie,Francia
-1991,1991-07-12,7,Le Havre to Argentan,Flat,167.0,Jean-Paul van Poppel,Paises Bajos
+1991,1991-07-12,7,Le Havre to Argentan,Flat,167.0,Jean-Paul van Poppel,Países Bajos
 1991,1991-07-13,8,Argentan to Alençon,Individual time-trial,73.0,Miguel Induráin,España
 1991,1991-07-14,9,Alençon to Rennes,Flat,161.0,Mauro Ribeiro,Brasil
 1991,1991-07-15,10,Rennes to Quimper,Flat,207.5,Phil Anderson,Australia
@@ -1680,21 +1680,21 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1991,1991-07-22,16,Alès to Gap,Flat,215.0,Marco Lietti,Italia
 1991,1991-07-23,17,Gap to Alpe d'Huez,Mountain,125.0,Gianni Bugno,Italia
 1991,1991-07-24,18,Le Bourg-d'Oisans to Morzine,Mountain,255.0,Thierry Claveyrolat,Francia
-1991,1991-07-25,19,Morzine to Aix-les-Bains,Hilly,177.0,Dimitri Konyshev,Urss
-1991,1991-07-26,20,Aix-les-Bains to Mâcon,Hilly,160.0,Viatcheslav Ekimov,Urss
+1991,1991-07-25,19,Morzine to Aix-les-Bains,Hilly,177.0,Dimitri Konyshev,URSS
+1991,1991-07-26,20,Aix-les-Bains to Mâcon,Hilly,160.0,Viatcheslav Ekimov,URSS
 1991,1991-07-27,21,Lugny to Mâcon,Individual time-trial,57.0,Miguel Induráin,España
-1991,1991-07-28,22,Melun to Paris (Champs-Élysées),Flat,178.0,Dimitri Konyshev,Urss
+1991,1991-07-28,22,Melun to Paris (Champs-Élysées),Flat,178.0,Dimitri Konyshev,URSS
 1992,1992-07-04,P,San Sebastián (Spain),Individual time-trial,8.0,Miguel Induráin,España
 1992,1992-07-05,1,San Sebastián (Spain),Hilly,194.5,Dominique Arnould,Francia
 1992,1992-07-06,2,San Sebastián (Spain) to Pau,Hilly,255.0,Javier Murguialday,España
-1992,1992-07-07,3,Pau to Bordeaux,Flat,210.0,Rob Harmeling,Paises Bajos
+1992,1992-07-07,3,Pau to Bordeaux,Flat,210.0,Rob Harmeling,Países Bajos
 1992,1992-07-08,4,Libourne,Team time-trial,63.5,Panasonic–Sportlife,
 1992,1992-07-09,5,Nogent-sur-Oise to Wasquehal,Flat,196.0,Guido Bontempi,Italia
 1992,1992-07-10,6,Roubaix to Brussels (Belgium),Flat,167.0,Laurent Jalabert,Francia
 1992,1992-07-11,7,Brussels (Belgium) to Valkenburg (Netherlands),Flat,196.5,Gilles Delion,Francia
 1992,1992-07-12,8,Valkenburg (Netherlands) to Koblenz (Germany),Flat,206.5,Jan Nevens,Bélgica
 1992,1992-07-13,9,Luxembourg City (Luxembourg),Individual time-trial,65.0,Miguel Induráin,España
-1992,1992-07-14,10,Luxembourg City (Luxembourg) to Strasbourg,Flat,217.0,Jean-Paul van Poppel,Paises Bajos
+1992,1992-07-14,10,Luxembourg City (Luxembourg) to Strasbourg,Flat,217.0,Jean-Paul van Poppel,Países Bajos
 1992,1992-07-15,11,Strasbourg to Mulhouse,Hilly,249.5,Laurent Fignon,Francia
 1992,1992-07-16,12,Dole to St Gervais,Hilly,267.5,Rolf Järmann,Suiza
 1992,1992-07-18,13,St Gervais to Sestriere (Italy),Mountain,254.5,Claudio Chiappucci,Italia
@@ -1729,7 +1729,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1993,1993-07-25,20,Viry-Châtillon to Paris (Champs-Élysées),Flat,196.5,Djamolidine Abdoujaparov,Uzbekistán
 1994,1994-07-02,P,Lille,Individual time-trial,7.2,Chris Boardman,Reino Unido
 1994,1994-07-03,1,Lille to Armentières,Flat,234.0,Djamolidine Abdoujaparov,Uzbekistán
-1994,1994-07-04,2,Roubaix to Boulogne-sur-Mer,Flat,203.5,Jean-Paul van Poppel,Paises Bajos
+1994,1994-07-04,2,Roubaix to Boulogne-sur-Mer,Flat,203.5,Jean-Paul van Poppel,Países Bajos
 1994,1994-07-05,3,Calais to Eurotunnel,Team time-trial,66.5,GB–MG Maglificio,
 1994,1994-07-06,4,Dover (United Kingdom) to Brighton (United Kingdom),Flat,204.5,Francisco Cabello,España
 1994,1994-07-07,5,Portsmouth (United Kingdom),Flat,187.0,Nicola Minali,Italia
@@ -1754,7 +1754,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1995,1995-07-03,2,Perros-Guirec to Vitre,Flat,235.5,Mario Cipollini,Italia
 1995,1995-07-04,3,Mayenne to Alençon,Team time-trial,67.0,Gewiss–Ballan,
 1995,1995-07-05,4,Alençon to Le Havre,Flat,162.0,Mario Cipollini,Italia
-1995,1995-07-06,5,Fécamp to Dunkirk,Flat,261.0,Jeroen Blijlevens,Paises Bajos
+1995,1995-07-06,5,Fécamp to Dunkirk,Flat,261.0,Jeroen Blijlevens,Países Bajos
 1995,1995-07-07,6,Dunkirk to Charleroi (Belgium),Flat,202.0,Erik Zabel,Alemania
 1995,1995-07-08,7,Charleroi (Belgium) to Liège (Belgium),Hilly,203.0,Johan Bruyneel,Bélgica
 1995,1995-07-09,8,Huy (Belgium) to Seraing (Belgium),Individual time-trial,54.0,Miguel Induráin,España
@@ -1775,8 +1775,8 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1996,1996-07-01,2,'s-Hertogenbosch (Netherlands) to Wasquehal,Flat,247.5,Mario Cipollini,Italia
 1996,1996-07-02,3,Wasquehal to Nogent-sur-Oise,Flat,195.0,Erik Zabel,Alemania
 1996,1996-07-03,4,Soissons to Lac de Madine,Flat,232.0,Cyril Saugrain,Francia
-1996,1996-07-04,5,Lac de Madine to Besançon,Flat,242.0,Jeroen Blijlevens,Paises Bajos
-1996,1996-07-05,6,Arc-et-Senans to Aix-les-Bains,Hilly,207.0,Michael Boogerd,Paises Bajos
+1996,1996-07-04,5,Lac de Madine to Besançon,Flat,242.0,Jeroen Blijlevens,Países Bajos
+1996,1996-07-05,6,Arc-et-Senans to Aix-les-Bains,Hilly,207.0,Michael Boogerd,Países Bajos
 1996,1996-07-06,7,Chambéry to Les Arcs,Mountain,200.0,Luc Leblanc,Francia
 1996,1996-07-07,8,Bourg-Saint-Maurice to Val d'Isère,Individual time-trial,30.5,Evgueni Berzin,Rusia
 1996,1996-07-08,9,Le Monêtier-les-Bains to Sestriere (Italy),Mountain,46.0,Bjarne Riis,Dinamarca
@@ -1788,7 +1788,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1996,1996-07-15,15,Brive-la-Gaillarde to Villeneuve-sur-Lot,Flat,176.0,Massimo Podenzana,Italia
 1996,1996-07-16,16,Agen to Hautacam,Mountain,199.0,Bjarne Riis,Dinamarca
 1996,1996-07-17,17,Argelès-Gazost to Pamplona (Spain),Mountain,262.0,Laurent Dufaux,Suiza
-1996,1996-07-18,18,Pamplona (Spain) to Hendaye,Hilly,154.5,Bart Voskamp,Paises Bajos
+1996,1996-07-18,18,Pamplona (Spain) to Hendaye,Hilly,154.5,Bart Voskamp,Países Bajos
 1996,1996-07-19,19,Hendaye to Bordeaux,Flat,226.5,Frédéric Moncassin,Francia
 1996,1996-07-20,20,Bordeaux to Saint-Émilion,Individual time-trial,63.5,Jan Ullrich,Alemania
 1996,1996-07-21,21,Palaiseau to Paris (Champs-Élysées),Flat,147.5,Fabio Baldato,Italia
@@ -1798,7 +1798,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1997,1997-07-08,3,Vire to Plumelec,Flat,224.0,Erik Zabel,Alemania
 1997,1997-07-09,4,Plumelec to Le Puy du Fou,Flat,223.0,Nicola Minali,Italia
 1997,1997-07-10,5,Chantonnay to La Châtre,Flat,261.5,Cédric Vasseur,Francia
-1997,1997-07-11,6,Le Blanc to Marennes,Flat,217.5,Jeroen Blijlevens,Paises Bajos
+1997,1997-07-11,6,Le Blanc to Marennes,Flat,217.5,Jeroen Blijlevens,Países Bajos
 1997,1997-07-12,7,Marennes to Bordeaux,Flat,194.0,Erik Zabel,Alemania
 1997,1997-07-13,8,Sauternes to Pau,Flat,161.5,Erik Zabel,Alemania
 1997,1997-07-14,9,Pau to Loudenvielle,Mountain,182.0,Laurent Brochard,Francia
@@ -1818,12 +1818,12 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 1998,1998-07-12,1,Dublin (Ireland),Flat,180.5,Tom Steels,Bélgica
 1998,1998-07-13,2,Enniscorthy (Ireland) to Cork (Ireland),Flat,205.5,Ján Svorada,República Checa
 1998,1998-07-14,3,Roscoff to Lorient,Flat,169.0,Jens Heppner,Alemania
-1998,1998-07-15,4,Plouay to Cholet,Flat,252.0,Jeroen Blijlevens,Paises Bajos
+1998,1998-07-15,4,Plouay to Cholet,Flat,252.0,Jeroen Blijlevens,Países Bajos
 1998,1998-07-16,5,Cholet to Châteauroux,Flat,228.5,Mario Cipollini,Italia
 1998,1998-07-17,6,La Châtre to Brive-la-Gaillarde,Flat,204.5,Mario Cipollini,Italia
 1998,1998-07-18,7,Meyrignac-l'Église to Corrèze,Individual time-trial,58.0,Jan Ullrich,Alemania
 1998,1998-07-19,8,Brive-la-Gaillarde to Montauban,Flat,190.5,Jacky Durand,Francia
-1998,1998-07-20,9,Montauban to Pau,Flat,210.0,Léon van Bon,Paises Bajos
+1998,1998-07-20,9,Montauban to Pau,Flat,210.0,Léon van Bon,Países Bajos
 1998,1998-07-21,10,Pau to Luchon,Mountain,196.5,Rodolfo Massi,Italia
 1998,1998-07-22,11,Luchon to Plateau de Beille,Mountain,170.0,Marco Pantani,Italia
 1998,1998-07-24,12,Tarascon-sur-Ariège to Cap d'Agde,Flat,190.0,Tom Steels,Bélgica
@@ -1862,18 +1862,18 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 2000,2000-07-03,3,Loudun to Nantes,Flat,161.5,Tom Steels,Bélgica
 2000,2000-07-04,4,Nantes to Saint-Nazaire,Team time-trial,70.0,ONCE–Deutsche Bank,
 2000,2000-07-05,5,Vannes to Vitré,Flat,202.0,Marcel Wüst,Alemania
-2000,2000-07-06,6,Vitré to Tours,Flat,198.5,Léon van Bon,Paises Bajos
+2000,2000-07-06,6,Vitré to Tours,Flat,198.5,Léon van Bon,Países Bajos
 2000,2000-07-07,7,Tours to Limoges,Flat,205.5,Christophe Agnolutto,Francia
-2000,2000-07-08,8,Limoges to Villeneuve-sur-Lot,Flat,203.5,Erik Dekker,Paises Bajos
+2000,2000-07-08,8,Limoges to Villeneuve-sur-Lot,Flat,203.5,Erik Dekker,Países Bajos
 2000,2000-07-09,9,Agen to Dax,Flat,181.0,Paolo Bettini,Italia
 2000,2000-07-10,10,Dax to Hautacam,Mountain,205.0,Javier Otxoa,España
-2000,2000-07-11,11,Bagnères-de-Bigorre to Revel,Hilly,218.5,Erik Dekker,Paises Bajos
+2000,2000-07-11,11,Bagnères-de-Bigorre to Revel,Hilly,218.5,Erik Dekker,Países Bajos
 2000,2000-07-13,12,Carpentras to Mont Ventoux,Mountain,149.0,Marco Pantani,Italia
 2000,2000-07-14,13,Avignon to Draguignan,Flat,185.5,José Vicente Garcia,España
 2000,2000-07-15,14,Draguignan to Briançon,Mountain,249.5,Santiago Botero,Colombia
 2000,2000-07-16,15,Briançon to Courchevel,Mountain,173.5,Marco Pantani,Italia
 2000,2000-07-18,16,Courchevel to Morzine,Mountain,196.5,Richard Virenque,Francia
-2000,2000-07-19,17,Évian-les-Bains to Lausanne,Hilly,155.0,Erik Dekker,Paises Bajos
+2000,2000-07-19,17,Évian-les-Bains to Lausanne,Hilly,155.0,Erik Dekker,Países Bajos
 2000,2000-07-20,18,Lausanne to Freiburg (Germany),Flat,246.5,Salvatore Commesso,Italia
 2000,2000-07-21,19,Freiburg (Germany) to Mulhouse,Individual time-trial,58.5,Lance Armstrong,Estados Unidos
 2000,2000-07-22,20,Belfort to Troyes,Flat,254.5,Erik Zabel,Alemania
@@ -1886,7 +1886,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 2001,2001-07-12,5,Verdun to Bar-le-Duc,Team time-trial,67.0,Crédit Agricole,
 2001,2001-07-13,6,Commercy to Strasbourg,Flat,211.5,Jaan Kirsipuu,Estonia
 2001,2001-07-14,7,Strasbourg to Colmar,Hilly,162.5,Laurent Jalabert,Francia
-2001,2001-07-15,8,Colmar to Pontarlier,Flat,222.5,Erik Dekker,Paises Bajos
+2001,2001-07-15,8,Colmar to Pontarlier,Flat,222.5,Erik Dekker,Países Bajos
 2001,2001-07-16,9,Pontarlier to Aix-les-Bains,Flat,185.0,Serguei Ivanov,Rusia
 2001,2001-07-17,10,Aix-les-Bains to Alpe d'Huez,Mountain,209.0,Lance Armstrong,Estados Unidos
 2001,2001-07-18,11,Grenoble to Chamrousse,Individual time-trial,32.0,Lance Armstrong,Estados Unidos
@@ -1907,7 +1907,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 2002,2002-07-11,5,Soissons to Rouen,Flat,195.0,Jaan Kirsipuu,Estonia
 2002,2002-07-12,6,Forges-les-Eaux to Alençon,Flat,199.5,Erik Zabel,Alemania
 2002,2002-07-13,7,Bagnoles-de-l'Orne to Avranches,Flat,176.0,Bradley McGee,Australia
-2002,2002-07-14,8,Saint-Martin-de-Landelles to Plouay,Flat,217.5,Karsten Kroon,Paises Bajos
+2002,2002-07-14,8,Saint-Martin-de-Landelles to Plouay,Flat,217.5,Karsten Kroon,Países Bajos
 2002,2002-07-15,9,Lanester to Lorient,Individual time-trial,52.0,Santiago Botero,Colombia
 2002,2002-07-17,10,Bazas to Pau,Flat,147.0,Patrice Halgand,Francia
 2002,2002-07-18,11,Pau to La Mongie,Mountain,158.0,Lance Armstrong,Estados Unidos
@@ -1915,7 +1915,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 2002,2002-07-20,13,Lavelanet to Béziers,Flat,171.0,David Millar,Reino Unido
 2002,2002-07-21,14,Lodève to Mont Ventoux,Mountain,221.0,Richard Virenque,Francia
 2002,2002-07-23,15,Vaison-la-Romaine to Les Deux Alpes,Hilly,226.5,Santiago Botero,Colombia
-2002,2002-07-24,16,Les Deux Alpes to La Plagne,Mountain,179.5,Michael Boogerd,Paises Bajos
+2002,2002-07-24,16,Les Deux Alpes to La Plagne,Mountain,179.5,Michael Boogerd,Países Bajos
 2002,2002-07-25,17,Aime to Cluses,Mountain,142.0,Dario Frigo,Italia
 2002,2002-07-26,18,Cluses to Bourg-en-Bresse,Hilly,176.5,Thor Hushovd,Noruega
 2002,2002-07-27,19,Régnié-Durette to Mâcon,Individual time-trial,50.0,Lance Armstrong,Estados Unidos
@@ -1937,7 +1937,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 2003,2003-07-20,14,Saint-Girons to Loudenvielle,Mountain,191.5,Gilberto Simoni,Italia
 2003,2003-07-21,15,Bagnères-de-Bigorre to Luz Ardiden,Mountain,159.5,Lance Armstrong,Estados Unidos
 2003,2003-07-23,16,Pau to Bayonne,Hilly,197.5,Tyler Hamilton,Estados Unidos
-2003,2003-07-24,17,Dax to Bordeaux,Flat,181.0,Servais Knaven,Paises Bajos
+2003,2003-07-24,17,Dax to Bordeaux,Flat,181.0,Servais Knaven,Países Bajos
 2003,2003-07-25,18,Bordeaux to Saint-Maixent-l'École,Flat,203.5,Pablo Lastras,España
 2003,2003-07-26,19,Pornic to Nantes,Individual time-trial,49.0,David Millar,Reino Unido
 2003,2003-07-27,20,Ville-d'Avray to Paris (Champs-Élysées),Flat,152.0,Jean-Patrick Nazon,Francia
@@ -1969,7 +1969,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 2005,2005-07-06,5,Chambord to Montargis,Flat,183.0,Robbie McEwen,Australia
 2005,2005-07-07,6,Troyes to Nancy,Flat,199.0,Lorenzo Bernucci,Italia
 2005,2005-07-08,7,Lunéville to Karlsruhe (Germany),Flat,228.5,Robbie McEwen,Australia
-2005,2005-07-09,8,Pforzheim (Germany) to Gérardmer,Hilly,231.5,Pieter Weening,Paises Bajos
+2005,2005-07-09,8,Pforzheim (Germany) to Gérardmer,Hilly,231.5,Pieter Weening,Países Bajos
 2005,2005-07-10,9,Gérardmer to Mulhouse,Hilly,171.0,Michael Rasmussen,Dinamarca
 2005,2005-07-12,10,Grenoble to Courchevel,Mountain,177.0,Alejandro Valverde,España
 2005,2005-07-13,11,Courchevel to Briançon,Mountain,173.0,Alexander Vinokourov,Kazajistán
@@ -2155,7 +2155,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 2014,2014-07-06,2,York to Sheffield (United Kingdom),Hilly,201.0,Vincenzo Nibali,Italia
 2014,2014-07-07,3,Cambridge to London (United Kingdom),Flat,155.0,Marcel Kittel,Alemania
 2014,2014-07-08,4,Le Touquet-Paris-Plage to Lille Metropole,Flat,163.5,Marcel Kittel,Alemania
-2014,2014-07-09,5,Ypres (Belgium) to Arenberg Porte du Hainaut,Hilly,152.5,Lars Boom,Paises Bajos
+2014,2014-07-09,5,Ypres (Belgium) to Arenberg Porte du Hainaut,Hilly,152.5,Lars Boom,Países Bajos
 2014,2014-07-10,6,Arras to Reims,Flat,194.0,André Greipel,Alemania
 2014,2014-07-11,7,Épernay to Nancy,Flat,234.5,Matteo Trentin,Italia
 2014,2014-07-12,8,Tomblaine to Gérardmer La Mauselaine,Hilly,161.0,Blel Kadri,Francia
@@ -2201,11 +2201,11 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 2016,2016-07-07,6,Arpajon-sur-Cère to Montauban,Flat,190.5,Mark Cavendish,Reino Unido
 2016,2016-07-08,7,L'Isle-Jourdain to Lac de Payolle,Hilly,162.5,Steve Cummings,Reino Unido
 2016,2016-07-09,8,Pau to Bagnères-de-Luchon,Mountain,184.0,Chris Froome,Reino Unido
-2016,2016-07-10,9,Vielha Val d'Aran (Spain) to Andorra-Arcalis (Andorra),Mountain,184.5,Tom Dumoulin,Paises Bajos
+2016,2016-07-10,9,Vielha Val d'Aran (Spain) to Andorra-Arcalis (Andorra),Mountain,184.5,Tom Dumoulin,Países Bajos
 2016,2016-07-12,10,Escaldes-Engordany (Andorra) to Revel,Hilly,197.0,Michael Matthews,Australia
 2016,2016-07-13,11,Carcassonne to Montpellier,Flat,162.5,Peter Sagan,Eslovaquia
 2016,2016-07-14,12,Montpellier to Chalet Reynard (Mont Ventoux)[a],Mountain,178.0,Thomas De Gendt,Bélgica
-2016,2016-07-15,13,Bourg-Saint-Andéol to La Caverne du Pont-d'Arc,Individual time-trial,37.5,Tom Dumoulin,Paises Bajos
+2016,2016-07-15,13,Bourg-Saint-Andéol to La Caverne du Pont-d'Arc,Individual time-trial,37.5,Tom Dumoulin,Países Bajos
 2016,2016-07-16,14,Montélimar to Villars-les-Dombes (Parc des Oiseaux),Flat,208.5,Mark Cavendish,Reino Unido
 2016,2016-07-17,15,Bourg-en-Bresse to Culoz,Mountain,160.0,Jarlinson Pantano,Colombia
 2016,2016-07-18,16,Moirans-en-Montagne to Bern (Switzerland),Flat,209.0,Peter Sagan,Eslovaquia
@@ -2228,21 +2228,21 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 2017,2017-07-13,12,Pau to Peyragudes,Mountain,214.5,Romain Bardet,Francia
 2017,2017-07-14,13,Saint-Girons to Foix,Mountain,101.0,Warren Barguil,Francia
 2017,2017-07-15,14,Blagnac to Rodez,Hilly,181.5,Michael Matthews,Australia
-2017,2017-07-16,15,Laissac-Sévérac-l'Église to Le Puy-en-Velay,Hilly,189.5,Bauke Mollema,Paises Bajos
+2017,2017-07-16,15,Laissac-Sévérac-l'Église to Le Puy-en-Velay,Hilly,189.5,Bauke Mollema,Países Bajos
 2017,2017-07-18,16,Le Puy-en-Velay to Romans-sur-Isère,Hilly,165.0,Michael Matthews,Australia
 2017,2017-07-19,17,La Mure to Serre Chevalier,Mountain,183.0,Primož Roglič,Eslovenia
 2017,2017-07-20,18,Briançon to Col d'Izoard,Mountain,179.5,Warren Barguil,Francia
 2017,2017-07-21,19,Embrun to Salon-de-Provence,Flat,222.5,Edvald Boasson Hagen,Noruega
 2017,2017-07-22,20,Marseille,Individual time-trial,22.5,Maciej Bodnar,Polonia
-2017,2017-07-23,21,Montgeron to Paris (Champs-Élysées),Flat,103.0,Dylan Groenewegen,Paises Bajos
+2017,2017-07-23,21,Montgeron to Paris (Champs-Élysées),Flat,103.0,Dylan Groenewegen,Países Bajos
 2018,2018-07-07,1,Noirmoutier-en-l'Île to Fontenay-le-Comte,Flat,201.0,Fernando Gaviria,Colombia
 2018,2018-07-08,2,Mouilleron-Saint-Germain to La Roche-sur-Yon,Flat,182.5,Peter Sagan,Eslovaquia
 2018,2018-07-09,3,Cholet to Cholet,Team time-trial,35.5,Racing Team,
 2018,2018-07-10,4,La Baule to Sarzeau,Flat,195.0,Fernando Gaviria,Colombia
 2018,2018-07-11,5,Lorient to Quimper,Hilly,204.5,Peter Sagan,Eslovaquia
 2018,2018-07-12,6,Brest to Mûr-de-Bretagne,Hilly,181.0,Dan Martin,Irlanda
-2018,2018-07-13,7,Fougères to Chartres,Flat,231.0,Dylan Groenewegen,Paises Bajos
-2018,2018-07-14,8,Dreux to Amiens,Flat,181.0,Dylan Groenewegen,Paises Bajos
+2018,2018-07-13,7,Fougères to Chartres,Flat,231.0,Dylan Groenewegen,Países Bajos
+2018,2018-07-14,8,Dreux to Amiens,Flat,181.0,Dylan Groenewegen,Países Bajos
 2018,2018-07-15,9,Arras to Roubaix,Hilly,156.5,John Degenkolb,Alemania
 2018,2018-07-17,10,Annecy to Le Grand-Bornand,Mountain,158.5,Julian Alaphilippe,Francia
 2018,2018-07-18,11,Albertville to La Rosière,Mountain,108.5,Geraint Thomas,Reino Unido
@@ -2254,15 +2254,15 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 2018,2018-07-25,17,Bagnères-de-Luchon to Saint-Lary-Soulan (Col de Portet),Mountain,65.0,Nairo Quintana,Colombia
 2018,2018-07-26,18,Trie-sur-Baïse to Pau,Flat,171.0,Arnaud Démare,Francia
 2018,2018-07-27,19,Lourdes to Laruns,Mountain,200.5,Primož Roglič,Eslovenia
-2018,2018-07-28,20,Saint-Pée-sur-Nivelle to Espelette,Individual time-trial,31.0,Tom Dumoulin,Paises Bajos
+2018,2018-07-28,20,Saint-Pée-sur-Nivelle to Espelette,Individual time-trial,31.0,Tom Dumoulin,Países Bajos
 2018,2018-07-29,21,Houilles to Paris (Champs-Élysées),Flat,116.0,Alexander Kristoff,Noruega
-2019,2019-07-06,1,Brussels (Belgium) to Brussels (Belgium) via Charleroi (Belgium),Flat,194.5,Mike Teunissen,Paises Bajos
-2019,2019-07-07,2,Brussels-Royal Palace (Belgium) to Brussels-Atomium (Belgium),Team time-trial,27.6,Team Jumbo–Visma,Paises Bajos
+2019,2019-07-06,1,Brussels (Belgium) to Brussels (Belgium) via Charleroi (Belgium),Flat,194.5,Mike Teunissen,Países Bajos
+2019,2019-07-07,2,Brussels-Royal Palace (Belgium) to Brussels-Atomium (Belgium),Team time-trial,27.6,Team Jumbo–Visma,Países Bajos
 2019,2019-07-08,3,Binche (Belgium) to Épernay,Hilly,215.0,Julian Alaphilippe,Francia
 2019,2019-07-09,4,Reims to Nancy,Flat,213.5,Elia Viviani,Italia
 2019,2019-07-10,5,Saint-Dié-des-Vosges to Colmar,Hilly,175.5,Peter Sagan,Eslovaquia
 2019,2019-07-11,6,Mulhouse to La Planche des Belles Filles,Mountain,160.5,Dylan Teuns,Bélgica
-2019,2019-07-12,7,Belfort to Chalon-sur-Saône,Flat,230.0,Dylan Groenewegen,Paises Bajos
+2019,2019-07-12,7,Belfort to Chalon-sur-Saône,Flat,230.0,Dylan Groenewegen,Países Bajos
 2019,2019-07-13,8,Mâcon to Saint-Étienne,Hilly,200.0,Thomas De Gendt,Bélgica
 2019,2019-07-14,9,Saint-Étienne to Brioude,Hilly,170.5,Daryl Impey,Sudáfrica
 2019,2019-07-15,10,Saint-Flour to Albi,Flat,217.5,Wout van Aert,Bélgica
@@ -2299,7 +2299,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 2020,2020-09-19,20,Lure to La Planche des Belles Filles,Mountain time-trial,36.2,Tadej Pogačar,Eslovenia
 2020,2020-09-20,21,Mantes-la-Jolie to Paris (Champs-Élysées),Flat,122.0,Sam Bennett,Irlanda
 2021,2021-06-26,1,Brest to Landerneau,Hilly,197.8,Julian Alaphilippe,Francia
-2021,2021-06-27,2,Perros-Guirec to Mûr-de-Bretagne (Guerlédan),Hilly,183.5,Mathieu van der Poel,Paises Bajos
+2021,2021-06-27,2,Perros-Guirec to Mûr-de-Bretagne (Guerlédan),Hilly,183.5,Mathieu van der Poel,Países Bajos
 2021,2021-06-28,3,Lorient to Pontivy,Flat,182.9,Tim Merlier,Bélgica
 2021,2021-06-29,4,Redon to Fougères,Flat,150.4,Mark Cavendish,Reino Unido
 2021,2021-06-30,5,Changé to Laval,Individual time-trial,27.2,Tadej Pogačar,Eslovenia
@@ -2311,7 +2311,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 2021,2021-07-07,11,Sorgues to Malaucène,Mountain,198.9,Wout van Aert,Bélgica
 2021,2021-07-08,12,Saint-Paul-Trois-Châteaux to Nîmes,Flat,159.4,Nils Politt,Alemania
 2021,2021-07-09,13,Nîmes to Carcassonne,Flat,219.9,Mark Cavendish,Reino Unido
-2021,2021-07-10,14,Carcassonne to Quillan,Hilly,183.7,Bauke Mollema,Paises Bajos
+2021,2021-07-10,14,Carcassonne to Quillan,Hilly,183.7,Bauke Mollema,Países Bajos
 2021,2021-07-11,15,Céret to Andorra la Vella (Andorra),Mountain,191.3,Sepp Kuss,Estados Unidos
 2021,2021-07-13,16,El Pas de la Casa (Andorra) to Saint-Gaudens,Hilly,169.0,Patrick Konrad,Austria
 2021,2021-07-14,17,Muret to Saint-Lary-Soulan (Col de Portet),Mountain,178.4,Tadej Pogačar,Eslovenia
@@ -2320,8 +2320,8 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 2021,2021-07-17,20,Libourne to Saint-Émilion,Individual time-trial,30.8,Wout van Aert,Bélgica
 2021,2021-07-18,21,Chatou to Paris (Champs-Élysées),Flat,108.4,Wout van Aert,Bélgica
 2022,2022-07-01,1,Copenhagen (Denmark),Individual time-trial,13.2,Yves Lampaert,Bélgica
-2022,2022-07-02,2,Roskilde to Nyborg (Denmark),Flat,202.5,Fabio Jakobsen,Paises Bajos
-2022,2022-07-03,3,Vejle to Sønderborg (Denmark),Flat,182.0,Dylan Groenewegen,Paises Bajos
+2022,2022-07-02,2,Roskilde to Nyborg (Denmark),Flat,202.5,Fabio Jakobsen,Países Bajos
+2022,2022-07-03,3,Vejle to Sønderborg (Denmark),Flat,182.0,Dylan Groenewegen,Países Bajos
 2022,2022-07-05,4,Dunkirk to Calais,Hilly,171.5,Wout van Aert,Bélgica
 2022,2022-07-06,5,Lille to Arenberg,Hilly,157.0,Simon Clarke,Australia
 2022,2022-07-07,6,Binche (Belgium) to Longwy,Hilly,220.0,Tadej Pogačar,Eslovenia
@@ -2334,7 +2334,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 2022,2022-07-15,13,Le Bourg-d'Oisans to Saint-Étienne,Flat,193.0,Mads Pedersen,Dinamarca
 2022,2022-07-16,14,Saint-Étienne to Mende,Hilly,192.5,Michael Matthews,Australia
 2022,2022-07-17,15,Rodez to Carcassonne,Flat,202.5,Jasper Philipsen,Bélgica
-2022,2022-07-19,16,Carcassonne to Foix,Mountain,178.5,Hugo Houle,canada
+2022,2022-07-19,16,Carcassonne to Foix,Mountain,178.5,Hugo Houle,Canada
 2022,2022-07-20,17,Saint-Gaudens to Peyragudes,Mountain,130.0,Tadej Pogačar,Eslovenia
 2022,2022-07-21,18,Lourdes to Hautacam,Mountain,143.5,Jonas Vingegaard,Dinamarca
 2022,2022-07-22,19,Castelnau-Magnoac to Cahors,Flat,188.5,Christophe Laporte,Francia
@@ -2348,13 +2348,13 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 2023,2023-07-06,6,Tarbes – Cauterets,Mountain,144.9,Tadej Pogačar,Eslovenia
 2023,2023-07-07,7,Mont-de-Marsan – Burdeos,Flat,169.9,Jasper Philipsen,Bélgica
 2023,2023-07-08,8,Libourne – Limoges,Hilly,200.7,Mads Pedersen,Dinamarca
-2023,2023-07-09,9,Saint-Léonard-de-Noblat – Puy de Dôme,Mountain,182.4,Michael Woods,canada
+2023,2023-07-09,9,Saint-Léonard-de-Noblat – Puy de Dôme,Mountain,182.4,Michael Woods,Canada
 2023,2023-07-11,10,Vulcania – Issoire,Hilly,167.2,Pello Bilbao,España
 2023,2023-07-12,11,Clermont-Ferrand – Moulins,Flat,179.8,Jasper Philipsen,Bélgica
 2023,2023-07-13,12,Roanne – Belleville-en-Beaujolais,Hilly,168.8,Ion Izagirre,España
 2023,2023-07-14,13,Châtillon-sur-Chalaronne – Col du Grand Colombier,Mountain,137.8,Michał Kwiatkowski,Polonia
 2023,2023-07-15,14,Annemasse – Morzine,Mountain,151.8,Carlos Rodríguez,España
-2023,2023-07-16,15,Les Gets – Saint-Gervais-les-Bains,Mountain,179.0,Wout Poels,Paises Bajos
+2023,2023-07-16,15,Les Gets – Saint-Gervais-les-Bains,Mountain,179.0,Wout Poels,Países Bajos
 2023,2023-07-18,16,Passy – Combloux,Individual time-travel,22.4,Jonas Vingegaard,Dinamarca
 2023,2023-07-19,17,Saint-Gervais-les-Bains – Courchevel,Mountain,165.7,Felix Gall,Austria
 2023,2023-07-20,18,Moûtiers – Bourg-en-Bresse,Flat,184.9,Kasper Asgreen,Dinamarca
@@ -2366,7 +2366,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 2024,2024-07-01,3,ITA Piacenza – ITA Turín,Hilly,230.8,Biniam Girmay,Eritrea
 2024,2024-07-02,4,ITA Pinerolo – Valloire,Mountain,139.6,Tadej Pogačar,Eslovenia
 2024,2024-07-03,5,Saint-Jean-de-Maurienne – Saint-Vulbas,Flat,177.4,Mark Cavendish,Reino Unido
-2024,2024-07-04,6,Mâcon – Dijon,Flat,163.5,Dylan Groenewegen,Paises Bajos
+2024,2024-07-04,6,Mâcon – Dijon,Flat,163.5,Dylan Groenewegen,Países Bajos
 2024,2024-07-05,7,Nuits-Saint-Georges – Gevrey-Chambertin,Individual time-travel,25.3,Remco Evenepoel,Bélgica
 2024,2024-07-06,8,Semur-en-Auxois – Colombey-les-Deux-Églises,Hilly,183.4,Biniam Girmay,Eritrea
 2024,2024-07-07,9,Troyes – Troyes,Hilly,199.0,Anthony Turgis,Francia
@@ -2383,7 +2383,7 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 2024,2024-07-20,20,Niza – Col de la Couillole,Mountain,132.8,Tadej Pogačar,Eslovenia
 2024,2024-07-21,21,MON Ciudad de Mónaco – Niza,Individual time-travel,33.7,Tadej Pogačar,Eslovenia
 2025,2025-07-05,1,Lille – Lille,Flat,184.9,Jasper Philipsen,Bélgica
-2025,2025-07-06,2,Lauwin-Planque – Boulogne-sur-Mer,Hilly,209.1,Mathieu van der Poel,Paises Bajos
+2025,2025-07-06,2,Lauwin-Planque – Boulogne-sur-Mer,Hilly,209.1,Mathieu van der Poel,Países Bajos
 2025,2025-07-07,3,Valenciennes – Dunkerque,Flat,178.3,Tim Merlier,Bélgica
 2025,2025-07-08,4,Amiens – Ruan,Hilly,174.2,Tadej Pogačar,Eslovenia
 2025,2025-07-09,5,Caen – Caen,Individual time-travel,33.0,Remco Evenepoel,Bélgica
@@ -2395,11 +2395,11 @@ year,date,stage,course,type,distance_in_km,winner_name,country
 2025,2025-07-16,11,Toulouse – Toulouse,Flat,156.8,Jonas Abrahamsen,Noruega
 2025,2025-07-17,12,Auch – Hautacam,Mountain,180.6,Tadej Pogačar,Eslovenia
 2025,2025-07-18,13,Loudenvielle – Peyragudes,Mountain time-trial,10.9,Tadej Pogačar,Eslovenia
-2025,2025-07-19,14,Pau – Luchon-Superbagnères,Mountain,182.6,Thymen Arensman,Paises Bajos
+2025,2025-07-19,14,Pau – Luchon-Superbagnères,Mountain,182.6,Thymen Arensman,Países Bajos
 2025,2025-07-20,15,Muret – Carcasona,Hilly,169.3,Tim Wellens,Bélgica
 2025,2025-07-22,16,Montpellier – Mont Ventoux,Mountain,171.5,Valentin Paret-Peintre,Francia
 2025,2025-07-23,17,Bollène – Valence,Flat,160.4,Jonathan Milan,Italia
 2025,2025-07-24,18,Vif – Col de la Loze,Mountain,171.5,Ben O'Connor,Australia
-2025,2025-07-25,19,Albertville – La Plagne,Mountain,93.1,Thymen Arensman,Paises Bajos
+2025,2025-07-25,19,Albertville – La Plagne,Mountain,93.1,Thymen Arensman,Países Bajos
 2025,2025-07-26,20,Nantua – Pontarlier,Hilly,184.2,Kaden Groves,Australia
 2025,2025-07-27,21,Mantes-la-Ville – París,Flat,132.3,Wout van Aert,Bélgica
