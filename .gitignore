@@ -14,9 +14,8 @@ __pycache__/
 # VS Code
 .vscode/
 
-# Archivos procesados
-processed/*
-!processed/.gitkeep
+# Archivos procesados en la carpeta data
+data/processed/
 
 # Dirty notebooks
 notebooks/dirty_notebooks/
