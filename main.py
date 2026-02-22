@@ -1,7 +1,8 @@
 from src.io import load_data, save_data
 from src.cleaning import clean_finishers, clean_stages, clean_tours, clean_winners
 from src.features import calculate_stage_workload, create_hardness_analysis, calculate_physiology
-from src.viz import plot_hardness_composition, plot_paradigm_shift, plot_survival_gap, plot_age_evolution, plot_bmi_evolution
+from src.viz import plot_hardness_composition, plot_paradigm_shift, plot_survival_gap, plot_age_evolution, plot_bmi_evolution, plot_globalization
+
 
 
 def main ():
@@ -33,11 +34,13 @@ def main ():
     save_data(df_winners_feat, 'data/processed/tdf_winners_feat.csv')
 
     # Generamos las visualizaciones
-    # plot_hardness_composition(df_stages_feat)
-    # plot_paradigm_shift(df_analysis)
-    # plot_survival_gap(df_analysis)
-    # plot_age_evolution(df_winners_feat)
-    # plot_bmi_evolution(df_winners_feat)
+    plot_hardness_composition(df_stages_feat)
+    plot_paradigm_shift(df_analysis)
+    plot_survival_gap(df_analysis)
+    plot_age_evolution(df_winners_feat)
+    plot_bmi_evolution(df_winners_feat)
+    plot_globalization(df_finishers)
+
 
 
 

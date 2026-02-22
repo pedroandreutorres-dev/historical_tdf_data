@@ -103,3 +103,55 @@ def plot_bmi_evolution(df_winners_feat):
     plt.legend(loc='lower left', frameon=True, shadow=True)
     plt.tight_layout()
     plt.show()
+
+def plot_globalization(df_finishers_clean):
+    setup_style()
+    df = df_finishers_clean.copy()
+    
+    # Asegurarnos de tener la década
+    df['decade'] = (df['year'] // 10) * 10
+    
+    # Definir las potencias históricas
+    potencias_historicas = ['Francia', 'Bélgica', 'Italia', 'España', 'Países Bajos']
+    
+    # Agrupar países: Si no es potencia, va a "Resto del Mundo"
+    # Nota: Asegúrate de que los nombres de los países coincidan con cómo están en tu CSV limpio
+    df['region'] = df['country'].apply(lambda x: x if x in potencias_historicas else 'Resto del Mundo')
+    
+    # Contar ciclistas por década y región
+    region_counts = df.groupby(['decade', 'region']).size().reset_index(name='count')
+    
+    # Pivotar para el gráfico
+    pivot_df = region_counts.pivot(index='decade', columns='region', values='count').fillna(0)
+    
+    # Convertir a porcentajes (100% Stacked Area)
+    pivot_perc = pivot_df.div(pivot_df.sum(axis=1), axis=0) * 100
+    
+    # Ordenar las columnas para que el gráfico quede estético
+    orden = ['Francia', 'Bélgica', 'Italia', 'España', 'Países Bajos', 'Resto del Mundo']
+    # Filtrar solo las que existen por si hay diferencias de texto
+    orden_existente = [c for c in orden if c in pivot_perc.columns]
+    
+    # Colores representativos
+    colores = {
+        'Francia': '#0055A4',   # Azul francés
+        'Bélgica': '#000000',   # Negro belga
+        'Italia': '#009246',    # Verde italiano
+        'España': '#AA151B',    # Rojo español
+        'Países Bajos': '#FF6600', #Naranja holandés
+        'Resto del Mundo': '#D3D3D3' # Gris neutro
+    }
+    
+    # Dibujar gráfico de área apilada
+    ax = pivot_perc[orden_existente].plot(kind='area', stacked=True, 
+                                          color=[colores[c] for c in orden_existente], 
+                                          alpha=0.8, figsize=(14, 7))
+    
+    plt.title('La Globalización del Pelotón', fontsize=16, fontweight='bold', pad=20)
+    plt.xlabel('Década', fontsize=12, fontweight='bold')
+    plt.ylabel('Proporción del Pelotón Finalista (%)', fontsize=12, fontweight='bold')
+    
+    plt.legend(title='Nacionalidad', bbox_to_anchor=(1.02, 1), loc='upper left')
+    plt.margins(x=0) # Que el área toque los bordes del gráfico
+    plt.tight_layout()
+    plt.show()
