@@ -26,9 +26,6 @@ def main ():
 
     # #guardamos todos los dataframes
     save_data(df_finishers, 'data/processed/tdf_finishers_clean.csv')
-    save_data(df_stages, 'data/processed/tdf_stages_clean.csv')
-    save_data(df_tours, 'data/processed/tdf_tours_clean.csv')
-    save_data(df_winners, 'data/processed/tdf_winners_clean.csv')
     save_data(df_stages_feat, 'data/processed/tdf_stages_feat.csv')
     save_data(df_analysis, 'data/processed/tdf_analysis.csv')
     save_data(df_winners_feat, 'data/processed/tdf_winners_feat.csv')
